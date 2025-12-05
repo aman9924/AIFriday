@@ -1,0 +1,28 @@
+# test_api.py - Run this NOW
+from openai import OpenAI
+import os
+
+API_KEY = "sk-46mjarqYhjlDtDiJ8Uw3pw"
+BASE_URL = "https://genailab.tcs.in/v1"
+
+client = OpenAI(api_key=API_KEY, base_url=BASE_URL)
+
+print("🧪 Testing EMBEDDINGS...")
+try:
+    resp = client.embeddings.create(
+        model="azure/genailab-maas-text-embedding-3-large",
+        input="test"
+    )
+    print(f"✅ EMBEDDINGS OK! Dim: {len(resp.data[0].embedding)}")
+except Exception as e:
+    print(f"❌ EMBEDDING ERROR: {e}")
+
+print("\n🧪 Testing CHAT...")
+try:
+    resp = client.chat.completions.create(
+        model="azure/genailab-maas-gpt-4o",  # Change if needed
+        messages=[{"role": "user", "content": "hi"}]
+    )
+    print(f"✅ CHAT OK! Model: {resp.choices[0].message.content}")
+except Exception as e:
+    print(f"❌ CHAT ERROR: {e}")

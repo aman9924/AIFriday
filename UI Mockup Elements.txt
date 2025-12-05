@@ -1,0 +1,96 @@
+UI Elements Breakdown (From the Mockup)
+1. Header Section
+
+Logo & Branding: "ERP Pulse AI" with icon
+Upload Button: Primary CTA - always accessible
+Sticky positioning for easy navigation
+
+2. Navigation Tabs
+Five main sections:
+
+Dashboard: Overview & metrics
+Risk Heatmap: Interactive grid
+AI Copilot: Chat interface
+Insights: AI analysis
+Reports: Export functionality
+
+3. Dashboard Page Elements
+A. Key Metrics Cards (4 widgets):
+
+Health Score (67/100) with progress bar
+Critical Issues count (23)
+Potential Savings ($2.4M)
+Quick Wins count (12)
+
+B. Top Risks Panel:
+
+List of 5 critical issues
+Severity indicators (color dots)
+Impact values
+Clickable for details
+
+C. Quick Wins Panel:
+
+Effort estimation
+ROI calculations
+Action buttons
+
+D. Risk Distribution Chart:
+
+Bar chart by process
+Color-coded by severity
+Hover interactions
+
+4. Heatmap Page Elements
+A. Interactive Grid:
+
+Rows: Business processes (Finance, HR, etc.)
+Columns: Risk categories (Performance, Security, etc.)
+Cells: Color-coded by severity
+Click to see details
+
+B. Legend:
+
+Green (Low), Yellow (Medium), Orange (High), Red (Critical)
+
+C. Detail Panel (on cell click):
+
+Risk score
+Incident count
+Root cause analysis
+Recommended actions
+Add to action plan button
+
+5. AI Copilot Page Elements
+A. Chat Interface:
+
+Message history
+User/AI avatar indicators
+Text input field
+Send button
+
+B. Suggested Questions Sidebar:
+
+Pre-defined queries
+Click to auto-fill
+
+C. Context Awareness:
+
+AI references current data
+Provides specific recommendations
+
+6. Insights Page
+(Partially shown in mockup)
+
+AI-generated analysis cards
+Priority badges
+Category tags
+Action recommendations
+
+7. Reports Page
+(To be implemented)
+
+Export to PDF button
+Executive summary preview
+Roadmap timeline
+Benchmark comparisons

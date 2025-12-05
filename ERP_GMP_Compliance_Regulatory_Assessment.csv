@@ -1,0 +1,1501 @@
+compliance_check,audit_schedule,last_audit_days_ago,days_to_next_audit,compliance_status,last_audit_findings,open_findings,finding_closure_rate_pct,regulatory_authority,risk_level,estimated_remediation_days,gxp_impact_area,transformation_dependency
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,45,117,Compliant,0,0,100.0,FDA,Low,0,All,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,56,9,Due Soon,0,0,100.0,EMA,High,0,Data Integrity,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,78,127,Compliant,0,1,-300.0,EMA,Low,3,Process,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,350,53,Scheduled,1,1,63.6,EMA,Medium,6,All,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,331,14,Due Soon,2,2,61.9,FDA,High,2,Data Integrity,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,119,11,Due Soon,13,3,90.8,PMDA,High,3,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,331,83,Compliant,6,2,86.9,PMDA,Low,26,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,235,7,Due Soon,3,1,87.1,PMDA,High,0,Process,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,134,21,Due Soon,1,0,100.0,EMA,High,0,All,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,76,6,Due Soon,1,5,-81.8,PMDA,High,0,Data Integrity,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,83,158,Compliant,3,0,100.0,PMDA,Low,0,Quality,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,122,41,Scheduled,0,1,-300.0,FDA,Medium,1,Manufacturing,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,226,2,Due Soon,10,0,100.0,PMDA,High,0,Data Integrity,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,363,143,Compliant,0,0,100.0,FDA,Low,0,Data Integrity,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,230,95,Compliant,1,0,100.0,EMA,Low,0,Process,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,208,12,Due Soon,2,1,81.0,Multiple,High,0,Quality,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,3,19,Due Soon,0,2,-700.0,PMDA,High,6,Data Integrity,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,342,73,Compliant,1,1,63.6,EMA,Low,12,Process,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,58,88,Compliant,4,2,80.5,Multiple,Low,2,Manufacturing,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,158,1,Due Soon,0,0,100.0,FDA,High,0,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,183,114,Compliant,5,0,100.0,FDA,Low,0,Data Integrity,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,299,3,Due Soon,2,1,81.0,EMA,High,6,Data Integrity,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,276,42,Scheduled,0,0,100.0,Multiple,Medium,0,Manufacturing,None
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,252,6,Due Soon,0,0,100.0,PMDA,High,0,Process,None
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,342,0,Due Soon,0,1,-300.0,PMDA,High,22,All,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,198,11,Due Soon,3,1,87.1,PMDA,High,6,Manufacturing,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,158,44,Scheduled,0,0,100.0,Multiple,Medium,0,Process,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,213,113,Compliant,1,2,27.3,Multiple,Low,32,Data Integrity,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,213,23,Due Soon,1,0,100.0,EMA,High,0,Process,None
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,107,73,Compliant,1,0,100.0,PMDA,Low,0,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,303,8,Due Soon,2,1,81.0,Multiple,High,15,Manufacturing,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,140,20,Due Soon,3,0,100.0,Multiple,High,0,Quality,None
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,291,22,Due Soon,8,1,95.1,EMA,High,5,Quality,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,284,9,Due Soon,1,2,27.3,Multiple,High,5,Manufacturing,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,253,4,Due Soon,2,0,100.0,Multiple,High,0,Quality,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,135,78,Compliant,5,1,92.2,PMDA,Low,8,All,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,92,53,Scheduled,6,3,80.3,Multiple,Medium,17,Quality,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,253,141,Compliant,0,0,100.0,FDA,Low,0,Process,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,290,7,Due Soon,1,0,100.0,Multiple,High,0,Data Integrity,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,263,191,Compliant,7,3,83.1,FDA,Low,6,Data Integrity,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,75,0,Due Soon,0,0,100.0,PMDA,High,0,All,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,28,20,Due Soon,1,0,100.0,PMDA,High,0,Data Integrity,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,149,6,Due Soon,2,1,81.0,PMDA,High,22,Process,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,322,3,Due Soon,0,0,100.0,EMA,High,0,Manufacturing,None
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,166,139,Compliant,5,0,100.0,PMDA,Low,0,Data Integrity,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,274,12,Due Soon,0,0,100.0,PMDA,High,0,Quality,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,145,132,Compliant,5,2,84.3,PMDA,Low,20,All,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,53,20,Due Soon,0,2,-700.0,EMA,High,10,Quality,None
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,287,48,Scheduled,0,5,-1900.0,FDA,Medium,8,All,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,68,59,Scheduled,7,2,88.7,FDA,Medium,4,All,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,186,88,Compliant,2,0,100.0,EMA,Low,0,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,89,5,Due Soon,3,1,87.1,PMDA,High,15,Manufacturing,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,356,32,Scheduled,0,1,-300.0,EMA,Medium,3,Quality,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,67,53,Scheduled,0,2,-700.0,FDA,Medium,0,All,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,248,9,Due Soon,0,0,100.0,Multiple,High,0,Manufacturing,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,338,16,Due Soon,1,0,100.0,FDA,High,0,All,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,34,5,Due Soon,3,1,87.1,PMDA,High,3,Manufacturing,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,106,308,Compliant,1,0,100.0,EMA,Low,0,Quality,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,75,46,Scheduled,3,0,100.0,PMDA,Medium,0,Process,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,257,20,Due Soon,0,0,100.0,EMA,High,0,Process,None
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,297,50,Scheduled,1,2,27.3,FDA,Medium,0,Process,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,88,72,Compliant,0,0,100.0,FDA,Low,0,Manufacturing,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,188,7,Due Soon,9,1,95.6,EMA,High,2,All,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,195,90,Compliant,0,2,-700.0,Multiple,Low,2,Quality,None
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,58,104,Compliant,17,0,100.0,PMDA,Low,0,Manufacturing,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,70,266,Compliant,0,1,-300.0,Multiple,Low,9,Data Integrity,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,43,0,Due Soon,25,2,96.8,PMDA,High,5,All,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,234,9,Due Soon,3,2,74.2,PMDA,High,7,All,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,149,6,Due Soon,0,0,100.0,Multiple,High,0,Quality,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,348,30,Scheduled,1,2,27.3,PMDA,Medium,4,Quality,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,54,21,Due Soon,1,2,27.3,Multiple,High,0,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,74,61,Compliant,2,3,42.9,Multiple,Low,5,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,34,86,Compliant,0,1,-300.0,PMDA,Low,12,Quality,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,207,152,Compliant,2,0,100.0,FDA,Low,0,Quality,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,298,8,Due Soon,0,1,-300.0,PMDA,High,5,All,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,309,21,Due Soon,4,1,90.2,Multiple,High,8,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,233,18,Due Soon,6,0,100.0,FDA,High,0,Manufacturing,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,119,15,Due Soon,0,1,-300.0,EMA,High,0,Manufacturing,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,256,34,Scheduled,3,6,22.6,FDA,Medium,21,Quality,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,79,5,Due Soon,2,3,42.9,PMDA,High,1,Process,None
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,339,39,Scheduled,1,0,100.0,Multiple,Medium,0,All,System Upgrade
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,255,84,Compliant,1,0,100.0,Multiple,Low,0,Process,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,277,5,Due Soon,6,2,86.9,FDA,High,10,Manufacturing,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,231,196,Compliant,0,0,100.0,PMDA,Low,0,All,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,17,1,Due Soon,7,1,94.4,EMA,High,9,Process,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,221,125,Compliant,7,1,94.4,EMA,Low,9,Data Integrity,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,57,24,Due Soon,1,0,100.0,Multiple,High,0,Process,None
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,244,7,Due Soon,3,0,100.0,EMA,High,0,Process,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,254,8,Due Soon,2,0,100.0,Multiple,High,0,Process,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,32,41,Scheduled,0,0,100.0,FDA,Medium,0,Process,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,179,93,Compliant,0,3,-1100.0,FDA,Low,3,Data Integrity,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,177,219,Compliant,2,0,100.0,PMDA,Low,0,All,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Annual,126,338,Compliant,0,0,100.0,EMA,Low,0,Quality,Data Governance
+FDA 21 CFR 211 - General Manufacturing Controls,Continuous,353,1,Due Soon,7,0,100.0,FDA,High,0,Data Integrity,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,11,21,Due Soon,5,0,100.0,PMDA,High,0,Manufacturing,Process Automation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,264,18,Due Soon,0,2,-700.0,Multiple,High,7,Data Integrity,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,12,18,Due Soon,2,0,100.0,PMDA,High,0,All,None
+FDA 21 CFR 211 - General Manufacturing Controls,Monthly,294,10,Due Soon,0,0,100.0,FDA,High,0,All,eBR Implementation
+FDA 21 CFR 211 - General Manufacturing Controls,Semi-Annual,255,86,Compliant,6,0,100.0,PMDA,Low,0,Quality,None
+FDA 21 CFR 211 - General Manufacturing Controls,Quarterly,224,46,Scheduled,7,0,100.0,EMA,Medium,0,All,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,148,3,Due Soon,2,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,116,6,Due Soon,1,0,100.0,FDA,High,0,Process,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,140,5,Due Soon,0,5,-1900.0,FDA,High,13,Process,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,108,13,Due Soon,3,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,222,4,Due Soon,7,0,100.0,PMDA,High,0,Quality,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,320,8,Due Soon,5,0,100.0,Multiple,High,0,Process,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,361,321,Compliant,1,8,-190.9,EMA,Low,5,Process,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,240,169,Compliant,6,0,100.0,PMDA,Low,0,Process,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,290,29,Due Soon,2,2,61.9,FDA,High,9,Process,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,76,59,Scheduled,3,0,100.0,EMA,Medium,0,Quality,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,164,13,Due Soon,0,0,100.0,FDA,High,0,Quality,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,331,36,Scheduled,2,2,61.9,EMA,Medium,4,Data Integrity,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,123,103,Compliant,2,2,61.9,FDA,Low,2,Quality,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,159,125,Compliant,6,4,73.8,Multiple,Low,0,All,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,332,13,Due Soon,0,0,100.0,FDA,High,0,Quality,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,15,17,Due Soon,4,0,100.0,PMDA,High,0,Data Integrity,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,22,164,Compliant,3,0,100.0,Multiple,Low,0,Manufacturing,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,309,160,Compliant,5,2,84.3,PMDA,Low,32,Manufacturing,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,337,85,Compliant,0,0,100.0,FDA,Low,0,All,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,293,28,Due Soon,0,0,100.0,FDA,High,0,Process,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,255,4,Due Soon,1,5,-81.8,FDA,High,17,Quality,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,169,160,Compliant,0,2,-700.0,Multiple,Low,1,Quality,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,55,36,Scheduled,0,2,-700.0,EMA,Medium,37,Quality,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,131,13,Due Soon,0,2,-700.0,FDA,High,19,All,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,58,89,Compliant,0,0,100.0,PMDA,Low,0,Process,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,127,21,Due Soon,3,2,74.2,PMDA,High,4,Quality,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,189,22,Due Soon,0,1,-300.0,PMDA,High,12,Manufacturing,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,28,339,Compliant,2,0,100.0,EMA,Low,0,Data Integrity,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,328,9,Due Soon,5,1,92.2,PMDA,High,20,Manufacturing,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,199,113,Compliant,8,2,90.1,FDA,Low,31,All,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,121,11,Due Soon,9,1,95.6,PMDA,High,13,Quality,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,163,20,Due Soon,3,1,87.1,Multiple,High,0,Manufacturing,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,242,251,Compliant,1,0,100.0,Multiple,Low,0,Data Integrity,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,358,82,Compliant,1,0,100.0,PMDA,Low,0,Process,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,309,53,Scheduled,7,0,100.0,PMDA,Medium,0,All,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,329,328,Compliant,0,1,-300.0,EMA,Low,2,All,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,103,205,Compliant,4,0,100.0,PMDA,Low,0,Data Integrity,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,81,56,Scheduled,1,3,-9.1,EMA,Medium,8,Process,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,164,6,Due Soon,6,0,100.0,Multiple,High,0,All,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,352,22,Due Soon,1,1,63.6,PMDA,High,0,Data Integrity,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,189,212,Compliant,0,0,100.0,EMA,Low,0,All,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,11,3,Due Soon,5,1,92.2,FDA,High,2,Process,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,237,22,Due Soon,0,4,-1500.0,EMA,High,0,Data Integrity,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,317,205,Compliant,2,1,81.0,Multiple,Low,12,Process,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,189,22,Due Soon,0,4,-1500.0,EMA,High,5,Process,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,223,269,Compliant,1,0,100.0,Multiple,Low,0,All,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,98,52,Scheduled,1,0,100.0,PMDA,Medium,0,Data Integrity,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,221,4,Due Soon,7,0,100.0,EMA,High,0,Process,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,97,86,Compliant,6,0,100.0,Multiple,Low,0,Quality,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,149,7,Due Soon,0,0,100.0,PMDA,High,0,Quality,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,128,29,Due Soon,2,1,81.0,PMDA,High,22,Process,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,241,5,Due Soon,3,0,100.0,EMA,High,0,Data Integrity,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,363,98,Compliant,0,3,-1100.0,Multiple,Low,23,Process,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,286,48,Scheduled,1,0,100.0,FDA,Medium,0,Manufacturing,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,182,120,Compliant,3,2,74.2,FDA,Low,7,Manufacturing,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,155,6,Due Soon,1,2,27.3,Multiple,High,2,Data Integrity,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,298,0,Due Soon,1,0,100.0,EMA,High,0,Data Integrity,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,174,7,Due Soon,0,4,-1500.0,Multiple,High,8,Quality,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,272,90,Compliant,4,0,100.0,Multiple,Low,0,Quality,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,23,160,Compliant,5,1,92.2,EMA,Low,0,All,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,145,55,Scheduled,6,0,100.0,PMDA,Medium,0,Process,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,224,5,Due Soon,1,0,100.0,EMA,High,0,Data Integrity,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,337,142,Compliant,0,0,100.0,Multiple,Low,0,Manufacturing,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,118,13,Due Soon,4,0,100.0,EMA,High,0,Manufacturing,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,362,20,Due Soon,1,1,63.6,Multiple,High,4,All,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,227,1,Due Soon,4,3,70.7,PMDA,High,0,Process,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,58,15,Due Soon,3,0,100.0,EMA,High,0,Manufacturing,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,146,104,Compliant,2,0,100.0,EMA,Low,0,Quality,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,340,72,Compliant,1,0,100.0,EMA,Low,0,Process,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,214,2,Due Soon,2,0,100.0,FDA,High,0,Quality,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,14,168,Compliant,0,6,-2300.0,PMDA,Low,3,Manufacturing,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,55,75,Compliant,2,0,100.0,PMDA,Low,0,Quality,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,363,235,Compliant,6,0,100.0,Multiple,Low,0,All,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,169,0,Due Soon,1,1,63.6,FDA,High,20,Process,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,67,72,Compliant,5,0,100.0,EMA,Low,0,Manufacturing,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,37,7,Due Soon,5,1,92.2,Multiple,High,45,Manufacturing,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,123,22,Due Soon,8,1,95.1,Multiple,High,13,Manufacturing,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,199,41,Scheduled,2,1,81.0,Multiple,Medium,1,Data Integrity,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,252,152,Compliant,0,0,100.0,Multiple,Low,0,Data Integrity,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,341,91,Compliant,10,0,100.0,FDA,Low,0,Data Integrity,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,229,125,Compliant,0,0,100.0,Multiple,Low,0,All,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,47,6,Due Soon,2,4,23.8,Multiple,High,12,Data Integrity,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,323,111,Compliant,0,4,-1500.0,Multiple,Low,0,Manufacturing,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,238,5,Due Soon,11,0,100.0,EMA,High,0,Quality,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,149,1,Due Soon,4,0,100.0,Multiple,High,0,All,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,77,9,Due Soon,8,0,100.0,EMA,High,0,Data Integrity,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,152,6,Due Soon,0,3,-1100.0,FDA,High,1,Process,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,56,262,Compliant,4,2,80.5,Multiple,Low,9,All,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,292,21,Due Soon,1,3,-9.1,PMDA,High,20,Data Integrity,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,258,1,Due Soon,1,0,100.0,FDA,High,0,Manufacturing,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,202,46,Scheduled,0,0,100.0,FDA,Medium,0,Manufacturing,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,301,40,Scheduled,2,3,42.9,Multiple,Medium,14,All,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,96,43,Scheduled,4,0,100.0,EMA,Medium,0,Quality,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Continuous,345,4,Due Soon,1,2,27.3,FDA,High,15,All,None
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,203,2,Due Soon,3,0,100.0,FDA,High,0,Manufacturing,System Upgrade
+FDA 21 CFR 211.165 - Testing & Release Requirements,Monthly,355,14,Due Soon,2,0,100.0,Multiple,High,0,Process,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Quarterly,316,79,Compliant,0,1,-300.0,PMDA,Low,3,All,Data Governance
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,70,64,Compliant,7,0,100.0,FDA,Low,0,Quality,eBR Implementation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Annual,97,356,Compliant,2,2,61.9,FDA,Low,5,Quality,Process Automation
+FDA 21 CFR 211.165 - Testing & Release Requirements,Semi-Annual,124,166,Compliant,5,1,92.2,Multiple,Low,25,Process,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,238,154,Compliant,1,0,100.0,EMA,Low,0,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,86,59,Scheduled,1,2,27.3,EMA,Medium,5,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,231,0,Due Soon,0,0,100.0,EMA,High,0,Quality,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,27,6,Due Soon,1,1,63.6,PMDA,High,1,Manufacturing,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,254,13,Due Soon,1,0,100.0,PMDA,High,0,Manufacturing,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,263,15,Due Soon,3,3,61.3,Multiple,High,8,Quality,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,217,0,Due Soon,0,0,100.0,PMDA,High,0,Process,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,214,82,Compliant,1,1,63.6,Multiple,Low,6,Manufacturing,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,230,5,Due Soon,7,4,77.5,Multiple,High,1,Manufacturing,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,241,24,Due Soon,0,0,100.0,PMDA,High,0,All,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,301,3,Due Soon,1,1,63.6,PMDA,High,14,Process,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,365,75,Compliant,0,2,-700.0,Multiple,Low,9,All,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,83,25,Due Soon,11,1,96.4,EMA,High,12,Data Integrity,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,89,4,Due Soon,0,2,-700.0,EMA,High,0,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,213,3,Due Soon,3,0,100.0,Multiple,High,0,Data Integrity,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,25,142,Compliant,0,0,100.0,FDA,Low,0,Data Integrity,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,82,86,Compliant,0,0,100.0,EMA,Low,0,Process,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,221,172,Compliant,15,0,100.0,FDA,Low,0,Process,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,115,287,Compliant,4,0,100.0,Multiple,Low,0,Data Integrity,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,286,5,Due Soon,1,0,100.0,PMDA,High,0,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,362,1,Due Soon,0,0,100.0,FDA,High,0,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,313,54,Scheduled,1,0,100.0,FDA,Medium,0,Process,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,86,1,Due Soon,7,0,100.0,FDA,High,0,Quality,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,363,74,Compliant,5,5,60.8,Multiple,Low,11,Process,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,332,78,Compliant,6,0,100.0,PMDA,Low,0,Data Integrity,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,225,103,Compliant,5,0,100.0,Multiple,Low,0,Manufacturing,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,147,10,Due Soon,1,1,63.6,EMA,High,23,Manufacturing,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,185,53,Scheduled,7,0,100.0,EMA,Medium,0,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,117,25,Due Soon,1,2,27.3,EMA,High,12,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,235,28,Due Soon,0,0,100.0,PMDA,High,0,Manufacturing,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,265,2,Due Soon,5,2,84.3,FDA,High,5,Manufacturing,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,85,51,Scheduled,3,1,87.1,Multiple,Medium,24,Manufacturing,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,329,338,Compliant,2,0,100.0,EMA,Low,0,Process,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,215,4,Due Soon,5,0,100.0,Multiple,High,0,Process,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,5,44,Scheduled,6,1,93.4,PMDA,Medium,28,Process,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,207,179,Compliant,0,1,-300.0,Multiple,Low,16,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,358,7,Due Soon,3,0,100.0,PMDA,High,0,All,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,19,10,Due Soon,0,1,-300.0,PMDA,High,5,All,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,110,4,Due Soon,3,0,100.0,FDA,High,0,Process,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,175,66,Compliant,5,0,100.0,EMA,Low,0,Manufacturing,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,124,4,Due Soon,0,0,100.0,PMDA,High,0,All,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,191,30,Scheduled,3,1,87.1,PMDA,Medium,7,Process,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,334,24,Due Soon,4,0,100.0,FDA,High,0,All,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,233,0,Due Soon,16,4,90.1,PMDA,High,0,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,180,3,Due Soon,6,1,93.4,PMDA,High,6,Data Integrity,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,267,96,Compliant,2,2,61.9,EMA,Low,30,Manufacturing,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,185,3,Due Soon,2,0,100.0,Multiple,High,0,Manufacturing,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,211,26,Due Soon,3,0,100.0,FDA,High,0,Manufacturing,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,67,28,Due Soon,3,2,74.2,Multiple,High,4,Quality,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,347,189,Compliant,0,1,-300.0,Multiple,Low,4,Process,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,136,6,Due Soon,0,1,-300.0,Multiple,High,34,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,214,23,Due Soon,4,1,90.2,EMA,High,9,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,365,124,Compliant,0,2,-700.0,Multiple,Low,9,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,356,1,Due Soon,10,5,80.2,EMA,High,4,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,287,80,Compliant,13,4,87.8,PMDA,Low,10,Manufacturing,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,62,3,Due Soon,1,2,27.3,PMDA,High,3,Process,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,79,267,Compliant,2,0,100.0,FDA,Low,0,Data Integrity,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,151,38,Scheduled,2,4,23.8,Multiple,Medium,2,Manufacturing,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,216,150,Compliant,4,0,100.0,FDA,Low,0,Data Integrity,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,251,46,Scheduled,3,1,87.1,FDA,Medium,2,Manufacturing,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,23,8,Due Soon,2,2,61.9,Multiple,High,4,All,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,232,72,Compliant,3,1,87.1,PMDA,Low,2,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,71,2,Due Soon,7,1,94.4,Multiple,High,4,All,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,46,83,Compliant,0,0,100.0,Multiple,Low,0,All,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,277,10,Due Soon,3,1,87.1,FDA,High,12,All,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,363,84,Compliant,4,0,100.0,FDA,Low,0,Process,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,330,1,Due Soon,2,6,-14.3,FDA,High,34,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,292,0,Due Soon,1,1,63.6,EMA,High,3,All,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,338,61,Compliant,0,2,-700.0,EMA,Low,5,Manufacturing,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,362,62,Compliant,0,2,-700.0,Multiple,Low,24,Manufacturing,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,206,5,Due Soon,8,1,95.1,FDA,High,6,All,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,93,55,Scheduled,0,2,-700.0,Multiple,Medium,29,Manufacturing,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,132,48,Scheduled,6,2,86.9,FDA,Medium,0,Manufacturing,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,147,2,Due Soon,1,0,100.0,EMA,High,0,Quality,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,158,78,Compliant,6,0,100.0,Multiple,Low,0,Quality,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,93,5,Due Soon,2,0,100.0,FDA,High,0,Manufacturing,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,164,3,Due Soon,3,2,74.2,EMA,High,10,All,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,62,48,Scheduled,4,1,90.2,FDA,Medium,2,Quality,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,253,3,Due Soon,1,4,-45.5,Multiple,High,3,Manufacturing,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,238,162,Compliant,0,0,100.0,Multiple,Low,0,Manufacturing,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,325,208,Compliant,1,0,100.0,EMA,Low,0,Manufacturing,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,127,1,Due Soon,2,7,-33.3,EMA,High,14,Data Integrity,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,43,14,Due Soon,0,1,-300.0,EMA,High,17,Quality,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,126,2,Due Soon,6,0,100.0,Multiple,High,0,Process,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,238,0,Due Soon,1,2,27.3,PMDA,High,15,Quality,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,140,246,Compliant,2,0,100.0,PMDA,Low,0,All,Data Governance
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,262,149,Compliant,3,0,100.0,PMDA,Low,0,Manufacturing,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,154,1,Due Soon,0,0,100.0,FDA,High,0,All,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Semi-Annual,144,142,Compliant,1,0,100.0,Multiple,Low,0,Quality,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,350,5,Due Soon,1,0,100.0,PMDA,High,0,Data Integrity,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,340,31,Scheduled,0,0,100.0,PMDA,Medium,0,Data Integrity,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,307,30,Scheduled,1,0,100.0,PMDA,Medium,0,Manufacturing,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,244,311,Compliant,1,0,100.0,FDA,Low,0,Manufacturing,System Upgrade
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,357,17,Due Soon,0,0,100.0,Multiple,High,0,All,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Annual,334,332,Compliant,5,1,92.2,FDA,Low,19,Process,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Monthly,64,21,Due Soon,2,3,42.9,PMDA,High,2,All,None
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,91,49,Scheduled,2,1,81.0,FDA,Medium,25,Manufacturing,Process Automation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,228,24,Due Soon,1,2,27.3,FDA,High,8,Quality,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Quarterly,364,87,Compliant,3,3,61.3,PMDA,Low,57,Quality,eBR Implementation
+ICH Q9(R1) - Quality Risk Management (EffectiveJuly 2023),Continuous,114,4,Due Soon,3,0,100.0,EMA,High,0,All,Data Governance
+Batch Record Documentation & Completeness,Annual,253,143,Compliant,1,0,100.0,EMA,Low,0,Manufacturing,System Upgrade
+Batch Record Documentation & Completeness,Monthly,143,3,Due Soon,0,0,100.0,Multiple,High,0,Quality,None
+Batch Record Documentation & Completeness,Semi-Annual,290,168,Compliant,2,2,61.9,EMA,Low,0,Manufacturing,None
+Batch Record Documentation & Completeness,Semi-Annual,66,16,Due Soon,2,0,100.0,PMDA,High,0,Process,System Upgrade
+Batch Record Documentation & Completeness,Continuous,99,4,Due Soon,6,0,100.0,FDA,High,0,Process,None
+Batch Record Documentation & Completeness,Quarterly,287,87,Compliant,2,5,4.8,Multiple,Low,4,Manufacturing,Process Automation
+Batch Record Documentation & Completeness,Annual,222,165,Compliant,4,3,70.7,Multiple,Low,2,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Continuous,254,7,Due Soon,14,2,94.3,PMDA,High,1,Process,eBR Implementation
+Batch Record Documentation & Completeness,Semi-Annual,143,12,Due Soon,1,1,63.6,Multiple,High,21,Process,Process Automation
+Batch Record Documentation & Completeness,Quarterly,201,0,Due Soon,0,1,-300.0,EMA,High,3,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Continuous,116,0,Due Soon,4,1,90.2,Multiple,High,7,Manufacturing,System Upgrade
+Batch Record Documentation & Completeness,Semi-Annual,169,42,Scheduled,3,3,61.3,PMDA,Medium,4,Manufacturing,eBR Implementation
+Batch Record Documentation & Completeness,Annual,222,245,Compliant,4,0,100.0,FDA,Low,0,Process,Data Governance
+Batch Record Documentation & Completeness,Quarterly,56,31,Scheduled,3,2,74.2,Multiple,Medium,5,Quality,Data Governance
+Batch Record Documentation & Completeness,Annual,267,170,Compliant,4,1,90.2,EMA,Low,27,Manufacturing,None
+Batch Record Documentation & Completeness,Continuous,49,7,Due Soon,0,0,100.0,Multiple,High,0,Process,eBR Implementation
+Batch Record Documentation & Completeness,Annual,18,31,Scheduled,5,2,84.3,Multiple,Medium,6,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Semi-Annual,227,15,Due Soon,9,1,95.6,FDA,High,40,Data Integrity,None
+Batch Record Documentation & Completeness,Monthly,53,2,Due Soon,2,0,100.0,FDA,High,0,Process,eBR Implementation
+Batch Record Documentation & Completeness,Quarterly,206,48,Scheduled,1,5,-81.8,FDA,Medium,4,Process,Process Automation
+Batch Record Documentation & Completeness,Semi-Annual,338,153,Compliant,9,2,91.2,FDA,Low,5,All,Process Automation
+Batch Record Documentation & Completeness,Monthly,220,25,Due Soon,2,1,81.0,FDA,High,10,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Monthly,169,16,Due Soon,0,4,-1500.0,EMA,High,9,Manufacturing,eBR Implementation
+Batch Record Documentation & Completeness,Annual,35,304,Compliant,8,1,95.1,EMA,Low,5,Process,System Upgrade
+Batch Record Documentation & Completeness,Continuous,182,4,Due Soon,2,2,61.9,Multiple,High,3,All,None
+Batch Record Documentation & Completeness,Monthly,125,5,Due Soon,9,0,100.0,EMA,High,0,Manufacturing,eBR Implementation
+Batch Record Documentation & Completeness,Semi-Annual,300,79,Compliant,9,3,86.8,Multiple,Low,14,Process,Data Governance
+Batch Record Documentation & Completeness,Quarterly,278,74,Compliant,1,1,63.6,EMA,Low,18,Quality,Process Automation
+Batch Record Documentation & Completeness,Quarterly,176,77,Compliant,2,2,61.9,PMDA,Low,15,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Continuous,30,2,Due Soon,2,1,81.0,EMA,High,2,Process,None
+Batch Record Documentation & Completeness,Annual,177,216,Compliant,0,3,-1100.0,EMA,Low,18,Quality,System Upgrade
+Batch Record Documentation & Completeness,Annual,97,174,Compliant,0,3,-1100.0,Multiple,Low,0,All,None
+Batch Record Documentation & Completeness,Quarterly,290,74,Compliant,1,0,100.0,PMDA,Low,0,Process,Data Governance
+Batch Record Documentation & Completeness,Monthly,84,10,Due Soon,10,5,80.2,FDA,High,9,All,eBR Implementation
+Batch Record Documentation & Completeness,Monthly,2,7,Due Soon,1,1,63.6,EMA,High,14,Quality,Process Automation
+Batch Record Documentation & Completeness,Continuous,123,3,Due Soon,0,0,100.0,Multiple,High,0,Data Integrity,Process Automation
+Batch Record Documentation & Completeness,Semi-Annual,95,102,Compliant,4,0,100.0,FDA,Low,0,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Annual,16,183,Compliant,0,1,-300.0,FDA,Low,13,Quality,Data Governance
+Batch Record Documentation & Completeness,Monthly,324,6,Due Soon,11,0,100.0,PMDA,High,0,Manufacturing,eBR Implementation
+Batch Record Documentation & Completeness,Semi-Annual,146,50,Scheduled,2,0,100.0,EMA,Medium,0,Quality,Data Governance
+Batch Record Documentation & Completeness,Semi-Annual,284,86,Compliant,0,1,-300.0,EMA,Low,1,Quality,System Upgrade
+Batch Record Documentation & Completeness,Annual,135,90,Compliant,1,2,27.3,FDA,Low,6,Manufacturing,System Upgrade
+Batch Record Documentation & Completeness,Monthly,57,20,Due Soon,15,0,100.0,PMDA,High,0,Quality,Data Governance
+Batch Record Documentation & Completeness,Monthly,190,7,Due Soon,1,0,100.0,PMDA,High,0,Quality,None
+Batch Record Documentation & Completeness,Continuous,365,6,Due Soon,0,3,-1100.0,FDA,High,13,Manufacturing,System Upgrade
+Batch Record Documentation & Completeness,Semi-Annual,99,48,Scheduled,1,1,63.6,Multiple,Medium,33,Data Integrity,Data Governance
+Batch Record Documentation & Completeness,Continuous,326,6,Due Soon,0,0,100.0,EMA,High,0,Manufacturing,None
+Batch Record Documentation & Completeness,Continuous,275,3,Due Soon,0,3,-1100.0,PMDA,High,1,Quality,Data Governance
+Batch Record Documentation & Completeness,Semi-Annual,323,13,Due Soon,1,1,63.6,PMDA,High,9,Quality,None
+Batch Record Documentation & Completeness,Continuous,108,7,Due Soon,4,0,100.0,FDA,High,0,All,None
+Batch Record Documentation & Completeness,Annual,261,85,Compliant,2,5,4.8,Multiple,Low,3,Process,Data Governance
+Batch Record Documentation & Completeness,Monthly,238,16,Due Soon,0,1,-300.0,EMA,High,14,Data Integrity,Data Governance
+Batch Record Documentation & Completeness,Continuous,254,7,Due Soon,1,0,100.0,Multiple,High,0,Data Integrity,None
+Batch Record Documentation & Completeness,Monthly,299,20,Due Soon,4,1,90.2,FDA,High,20,Quality,System Upgrade
+Batch Record Documentation & Completeness,Semi-Annual,121,115,Compliant,5,0,100.0,Multiple,Low,0,Quality,Data Governance
+Batch Record Documentation & Completeness,Monthly,194,28,Due Soon,5,0,100.0,EMA,High,0,Data Integrity,Data Governance
+Batch Record Documentation & Completeness,Continuous,69,1,Due Soon,5,2,84.3,FDA,High,8,Data Integrity,Process Automation
+Batch Record Documentation & Completeness,Continuous,118,5,Due Soon,3,0,100.0,FDA,High,0,All,None
+Batch Record Documentation & Completeness,Continuous,219,5,Due Soon,0,0,100.0,Multiple,High,0,All,Process Automation
+Batch Record Documentation & Completeness,Monthly,255,11,Due Soon,5,0,100.0,PMDA,High,0,Data Integrity,Process Automation
+Batch Record Documentation & Completeness,Annual,227,91,Compliant,0,2,-700.0,EMA,Low,2,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Quarterly,151,10,Due Soon,5,0,100.0,FDA,High,0,Data Integrity,System Upgrade
+Batch Record Documentation & Completeness,Annual,37,60,Compliant,1,0,100.0,PMDA,Low,0,Manufacturing,None
+Batch Record Documentation & Completeness,Semi-Annual,101,85,Compliant,6,0,100.0,PMDA,Low,0,Data Integrity,Data Governance
+Batch Record Documentation & Completeness,Quarterly,362,24,Due Soon,0,1,-300.0,EMA,High,18,Process,Data Governance
+Batch Record Documentation & Completeness,Annual,145,153,Compliant,0,1,-300.0,PMDA,Low,13,All,Process Automation
+Batch Record Documentation & Completeness,Continuous,242,0,Due Soon,2,1,81.0,EMA,High,3,All,System Upgrade
+Batch Record Documentation & Completeness,Semi-Annual,243,53,Scheduled,1,1,63.6,EMA,Medium,0,Process,None
+Batch Record Documentation & Completeness,Continuous,237,7,Due Soon,2,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+Batch Record Documentation & Completeness,Semi-Annual,358,109,Compliant,1,1,63.6,Multiple,Low,21,Quality,Process Automation
+Batch Record Documentation & Completeness,Monthly,286,27,Due Soon,2,0,100.0,FDA,High,0,Data Integrity,System Upgrade
+Batch Record Documentation & Completeness,Continuous,157,2,Due Soon,0,1,-300.0,FDA,High,7,All,Data Governance
+Batch Record Documentation & Completeness,Quarterly,215,28,Due Soon,3,0,100.0,Multiple,High,0,All,None
+Batch Record Documentation & Completeness,Quarterly,301,41,Scheduled,5,3,76.5,FDA,Medium,0,Process,eBR Implementation
+Batch Record Documentation & Completeness,Semi-Annual,170,39,Scheduled,4,0,100.0,Multiple,Medium,0,All,System Upgrade
+Batch Record Documentation & Completeness,Monthly,274,2,Due Soon,1,0,100.0,Multiple,High,0,Quality,Process Automation
+Batch Record Documentation & Completeness,Annual,292,168,Compliant,3,0,100.0,Multiple,Low,0,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Semi-Annual,346,26,Due Soon,5,0,100.0,EMA,High,0,Manufacturing,None
+Batch Record Documentation & Completeness,Monthly,96,0,Due Soon,1,0,100.0,EMA,High,0,Manufacturing,Process Automation
+Batch Record Documentation & Completeness,Quarterly,120,26,Due Soon,3,0,100.0,PMDA,High,0,Process,eBR Implementation
+Batch Record Documentation & Completeness,Monthly,189,1,Due Soon,1,0,100.0,FDA,High,0,Quality,Data Governance
+Batch Record Documentation & Completeness,Monthly,81,12,Due Soon,0,0,100.0,FDA,High,0,Quality,None
+Batch Record Documentation & Completeness,Monthly,36,15,Due Soon,0,0,100.0,Multiple,High,0,Quality,System Upgrade
+Batch Record Documentation & Completeness,Semi-Annual,222,79,Compliant,2,0,100.0,Multiple,Low,0,Quality,None
+Batch Record Documentation & Completeness,Continuous,301,4,Due Soon,3,0,100.0,EMA,High,0,Process,Process Automation
+Batch Record Documentation & Completeness,Quarterly,4,25,Due Soon,1,2,27.3,EMA,High,8,All,eBR Implementation
+Batch Record Documentation & Completeness,Monthly,127,19,Due Soon,9,0,100.0,PMDA,High,0,Process,Process Automation
+Batch Record Documentation & Completeness,Monthly,295,14,Due Soon,5,2,84.3,FDA,High,22,Manufacturing,Data Governance
+Batch Record Documentation & Completeness,Monthly,359,11,Due Soon,9,0,100.0,PMDA,High,0,All,None
+Batch Record Documentation & Completeness,Semi-Annual,128,106,Compliant,0,1,-300.0,EMA,Low,4,Process,Process Automation
+Batch Record Documentation & Completeness,Monthly,338,12,Due Soon,5,0,100.0,EMA,High,0,Process,eBR Implementation
+Batch Record Documentation & Completeness,Monthly,23,22,Due Soon,4,0,100.0,EMA,High,0,Quality,Data Governance
+Batch Record Documentation & Completeness,Continuous,342,4,Due Soon,1,5,-81.8,FDA,High,0,Quality,Process Automation
+Batch Record Documentation & Completeness,Monthly,284,24,Due Soon,1,0,100.0,FDA,High,0,Data Integrity,eBR Implementation
+Batch Record Documentation & Completeness,Annual,167,258,Compliant,5,1,92.2,Multiple,Low,16,All,System Upgrade
+Batch Record Documentation & Completeness,Quarterly,260,26,Due Soon,2,0,100.0,FDA,High,0,All,eBR Implementation
+Batch Record Documentation & Completeness,Annual,356,327,Compliant,0,0,100.0,Multiple,Low,0,All,Data Governance
+Batch Record Documentation & Completeness,Monthly,100,27,Due Soon,2,1,81.0,Multiple,High,2,Manufacturing,eBR Implementation
+Batch Record Documentation & Completeness,Quarterly,364,14,Due Soon,0,0,100.0,EMA,High,0,Data Integrity,Process Automation
+Batch Record Documentation & Completeness,Monthly,35,14,Due Soon,1,0,100.0,FDA,High,0,Process,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Monthly,242,4,Due Soon,0,0,100.0,PMDA,High,0,Quality,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Annual,52,310,Compliant,5,0,100.0,EMA,Low,0,Data Integrity,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Continuous,87,6,Due Soon,5,0,100.0,FDA,High,0,Manufacturing,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,184,112,Compliant,3,0,100.0,EMA,Low,0,Quality,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Continuous,227,3,Due Soon,2,0,100.0,FDA,High,0,Process,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Monthly,158,22,Due Soon,0,3,-1100.0,Multiple,High,9,Manufacturing,None
+Equipment Qualification (IQ/OQ/PQ),Annual,194,24,Due Soon,0,0,100.0,EMA,High,0,Quality,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,47,51,Scheduled,1,1,63.6,FDA,Medium,9,All,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Annual,99,172,Compliant,0,0,100.0,FDA,Low,0,Quality,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,23,42,Scheduled,1,0,100.0,Multiple,Medium,0,Process,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,288,41,Scheduled,2,1,81.0,EMA,Medium,11,Process,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Continuous,220,6,Due Soon,1,3,-9.1,FDA,High,0,Quality,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Annual,166,182,Compliant,2,4,23.8,EMA,Low,7,Manufacturing,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,200,1,Due Soon,1,0,100.0,EMA,High,0,All,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Annual,143,336,Compliant,4,0,100.0,PMDA,Low,0,Manufacturing,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,155,105,Compliant,3,0,100.0,Multiple,Low,0,Manufacturing,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,129,2,Due Soon,0,0,100.0,FDA,High,0,Process,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Monthly,356,21,Due Soon,0,3,-1100.0,EMA,High,20,Data Integrity,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Quarterly,247,85,Compliant,2,0,100.0,FDA,Low,0,Data Integrity,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Continuous,196,7,Due Soon,0,1,-300.0,EMA,High,1,Process,None
+Equipment Qualification (IQ/OQ/PQ),Annual,11,119,Compliant,3,0,100.0,FDA,Low,0,Data Integrity,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Monthly,125,24,Due Soon,3,2,74.2,FDA,High,6,Manufacturing,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Quarterly,152,63,Compliant,5,2,84.3,EMA,Low,11,Quality,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,20,164,Compliant,1,0,100.0,EMA,Low,0,Process,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,143,17,Due Soon,5,1,92.2,PMDA,High,15,Manufacturing,None
+Equipment Qualification (IQ/OQ/PQ),Monthly,148,20,Due Soon,2,0,100.0,FDA,High,0,Quality,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Quarterly,106,31,Scheduled,11,0,100.0,FDA,Medium,0,Quality,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Continuous,267,6,Due Soon,7,0,100.0,PMDA,High,0,Quality,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Annual,252,33,Scheduled,1,0,100.0,FDA,Medium,0,Quality,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,65,52,Scheduled,7,3,83.1,FDA,Medium,17,Quality,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,121,3,Due Soon,1,0,100.0,FDA,High,0,All,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,102,21,Due Soon,3,0,100.0,EMA,High,0,All,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Continuous,156,3,Due Soon,4,2,80.5,PMDA,High,5,Process,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,247,69,Compliant,4,2,80.5,FDA,Low,26,Data Integrity,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Monthly,242,5,Due Soon,2,2,61.9,Multiple,High,6,All,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,80,6,Due Soon,0,0,100.0,Multiple,High,0,Manufacturing,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Monthly,43,27,Due Soon,0,0,100.0,PMDA,High,0,Process,None
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,90,141,Compliant,0,2,-700.0,PMDA,Low,8,All,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,146,58,Scheduled,1,0,100.0,Multiple,Medium,0,Process,None
+Equipment Qualification (IQ/OQ/PQ),Monthly,171,2,Due Soon,1,0,100.0,EMA,High,0,All,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,3,48,Scheduled,0,2,-700.0,FDA,Medium,13,Process,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Monthly,213,12,Due Soon,2,0,100.0,Multiple,High,0,Data Integrity,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Monthly,329,9,Due Soon,0,0,100.0,FDA,High,0,All,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Annual,290,197,Compliant,2,1,81.0,EMA,Low,1,Quality,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,261,44,Scheduled,5,0,100.0,Multiple,Medium,0,Data Integrity,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Monthly,218,29,Due Soon,2,1,81.0,EMA,High,6,Quality,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Annual,324,185,Compliant,2,0,100.0,FDA,Low,0,Quality,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Continuous,349,7,Due Soon,1,0,100.0,EMA,High,0,Data Integrity,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Continuous,7,2,Due Soon,0,0,100.0,FDA,High,0,Manufacturing,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Monthly,301,22,Due Soon,2,0,100.0,FDA,High,0,Process,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Monthly,219,5,Due Soon,0,1,-300.0,PMDA,High,23,Data Integrity,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,301,6,Due Soon,4,3,70.7,PMDA,High,8,All,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Annual,294,325,Compliant,1,1,63.6,PMDA,Low,3,Quality,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,358,101,Compliant,0,0,100.0,PMDA,Low,0,Manufacturing,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Monthly,50,0,Due Soon,1,1,63.6,FDA,High,8,All,None
+Equipment Qualification (IQ/OQ/PQ),Monthly,148,20,Due Soon,0,3,-1100.0,Multiple,High,8,Quality,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Quarterly,361,23,Due Soon,1,4,-45.5,EMA,High,1,Quality,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,57,128,Compliant,4,0,100.0,Multiple,Low,0,Process,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,31,51,Scheduled,3,4,48.4,EMA,Medium,7,Quality,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Monthly,321,14,Due Soon,0,0,100.0,FDA,High,0,Quality,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,194,10,Due Soon,1,2,27.3,FDA,High,3,Data Integrity,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,300,3,Due Soon,1,2,27.3,EMA,High,1,All,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Annual,32,4,Due Soon,5,0,100.0,PMDA,High,0,Manufacturing,None
+Equipment Qualification (IQ/OQ/PQ),Annual,109,49,Scheduled,0,0,100.0,FDA,Medium,0,All,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,249,4,Due Soon,9,0,100.0,Multiple,High,0,Data Integrity,None
+Equipment Qualification (IQ/OQ/PQ),Monthly,190,10,Due Soon,0,1,-300.0,PMDA,High,11,Data Integrity,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Quarterly,205,85,Compliant,1,1,63.6,Multiple,Low,2,Process,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,52,42,Scheduled,0,1,-300.0,FDA,Medium,1,All,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,309,6,Due Soon,8,0,100.0,FDA,High,0,Process,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,232,94,Compliant,4,0,100.0,Multiple,Low,0,Process,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,327,0,Due Soon,5,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Annual,348,166,Compliant,9,0,100.0,Multiple,Low,0,Quality,None
+Equipment Qualification (IQ/OQ/PQ),Monthly,314,12,Due Soon,4,1,90.2,FDA,High,5,Data Integrity,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Monthly,359,21,Due Soon,0,2,-700.0,FDA,High,2,All,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Continuous,365,3,Due Soon,3,0,100.0,EMA,High,0,Process,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,66,0,Due Soon,19,1,97.9,Multiple,High,1,Manufacturing,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Continuous,87,7,Due Soon,1,0,100.0,Multiple,High,0,Manufacturing,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Continuous,125,3,Due Soon,1,0,100.0,EMA,High,0,Quality,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Annual,15,222,Compliant,5,2,84.3,EMA,Low,0,Data Integrity,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,132,28,Due Soon,2,0,100.0,Multiple,High,0,Manufacturing,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Continuous,47,7,Due Soon,1,0,100.0,PMDA,High,0,Quality,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,330,1,Due Soon,4,4,61.0,PMDA,High,2,All,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Continuous,120,6,Due Soon,1,0,100.0,EMA,High,0,Data Integrity,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Quarterly,58,11,Due Soon,7,0,100.0,FDA,High,0,Data Integrity,None
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,294,29,Due Soon,2,3,42.9,PMDA,High,2,Quality,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Monthly,1,18,Due Soon,2,0,100.0,PMDA,High,0,Manufacturing,None
+Equipment Qualification (IQ/OQ/PQ),Continuous,199,3,Due Soon,5,0,100.0,Multiple,High,0,Data Integrity,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,340,133,Compliant,13,3,90.8,EMA,Low,13,Manufacturing,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Annual,236,275,Compliant,2,2,61.9,PMDA,Low,1,Quality,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,349,127,Compliant,1,0,100.0,Multiple,Low,0,Quality,None
+Equipment Qualification (IQ/OQ/PQ),Quarterly,341,18,Due Soon,3,2,74.2,FDA,High,29,Process,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Quarterly,353,64,Compliant,3,1,87.1,FDA,Low,22,Data Integrity,None
+Equipment Qualification (IQ/OQ/PQ),Monthly,111,20,Due Soon,8,1,95.1,Multiple,High,1,Data Integrity,Process Automation
+Equipment Qualification (IQ/OQ/PQ),Annual,79,170,Compliant,1,1,63.6,EMA,Low,9,Quality,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,201,124,Compliant,13,3,90.8,PMDA,Low,5,Quality,eBR Implementation
+Equipment Qualification (IQ/OQ/PQ),Continuous,173,6,Due Soon,0,0,100.0,Multiple,High,0,All,Data Governance
+Equipment Qualification (IQ/OQ/PQ),Monthly,37,12,Due Soon,0,0,100.0,PMDA,High,0,Data Integrity,System Upgrade
+Equipment Qualification (IQ/OQ/PQ),Continuous,50,6,Due Soon,6,0,100.0,EMA,High,0,Data Integrity,None
+Equipment Qualification (IQ/OQ/PQ),Annual,156,363,Compliant,2,0,100.0,Multiple,Low,0,Quality,None
+Equipment Qualification (IQ/OQ/PQ),Semi-Annual,357,113,Compliant,2,3,42.9,Multiple,Low,14,Data Integrity,System Upgrade
+Change Control & Change Management Process,Semi-Annual,101,55,Scheduled,0,2,-700.0,FDA,Medium,3,Data Integrity,None
+Change Control & Change Management Process,Annual,76,347,Compliant,3,0,100.0,Multiple,Low,0,All,System Upgrade
+Change Control & Change Management Process,Annual,183,49,Scheduled,3,0,100.0,Multiple,Medium,0,Quality,eBR Implementation
+Change Control & Change Management Process,Annual,333,263,Compliant,2,1,81.0,PMDA,Low,2,Process,Process Automation
+Change Control & Change Management Process,Semi-Annual,207,160,Compliant,8,0,100.0,EMA,Low,0,Manufacturing,eBR Implementation
+Change Control & Change Management Process,Semi-Annual,251,101,Compliant,6,0,100.0,PMDA,Low,0,Process,System Upgrade
+Change Control & Change Management Process,Monthly,355,24,Due Soon,3,1,87.1,FDA,High,1,All,Process Automation
+Change Control & Change Management Process,Quarterly,335,80,Compliant,1,1,63.6,Multiple,Low,18,Data Integrity,eBR Implementation
+Change Control & Change Management Process,Annual,43,59,Scheduled,9,0,100.0,FDA,Medium,0,All,None
+Change Control & Change Management Process,Semi-Annual,301,5,Due Soon,1,1,63.6,Multiple,High,7,Data Integrity,eBR Implementation
+Change Control & Change Management Process,Continuous,197,2,Due Soon,8,0,100.0,Multiple,High,0,All,Data Governance
+Change Control & Change Management Process,Continuous,51,2,Due Soon,1,1,63.6,PMDA,High,2,Manufacturing,None
+Change Control & Change Management Process,Semi-Annual,359,103,Compliant,3,0,100.0,FDA,Low,0,All,None
+Change Control & Change Management Process,Continuous,33,7,Due Soon,1,1,63.6,FDA,High,3,Quality,eBR Implementation
+Change Control & Change Management Process,Semi-Annual,356,153,Compliant,0,4,-1500.0,EMA,Low,24,Manufacturing,None
+Change Control & Change Management Process,Monthly,161,25,Due Soon,7,5,71.8,FDA,High,2,Manufacturing,System Upgrade
+Change Control & Change Management Process,Continuous,335,3,Due Soon,0,0,100.0,EMA,High,0,Manufacturing,None
+Change Control & Change Management Process,Quarterly,44,4,Due Soon,6,2,86.9,FDA,High,10,Process,Data Governance
+Change Control & Change Management Process,Quarterly,88,69,Compliant,7,1,94.4,Multiple,Low,1,Manufacturing,System Upgrade
+Change Control & Change Management Process,Quarterly,266,5,Due Soon,0,0,100.0,PMDA,High,0,Process,Process Automation
+Change Control & Change Management Process,Semi-Annual,252,147,Compliant,1,0,100.0,PMDA,Low,0,Process,Data Governance
+Change Control & Change Management Process,Continuous,353,3,Due Soon,4,0,100.0,FDA,High,0,Manufacturing,System Upgrade
+Change Control & Change Management Process,Annual,73,96,Compliant,3,1,87.1,PMDA,Low,79,Quality,System Upgrade
+Change Control & Change Management Process,Continuous,303,3,Due Soon,4,5,51.2,PMDA,High,4,Data Integrity,System Upgrade
+Change Control & Change Management Process,Continuous,39,6,Due Soon,0,1,-300.0,PMDA,High,1,Data Integrity,Process Automation
+Change Control & Change Management Process,Semi-Annual,234,102,Compliant,2,0,100.0,FDA,Low,0,Data Integrity,Process Automation
+Change Control & Change Management Process,Semi-Annual,105,137,Compliant,2,4,23.8,FDA,Low,3,Data Integrity,System Upgrade
+Change Control & Change Management Process,Quarterly,337,72,Compliant,15,0,100.0,EMA,Low,0,All,System Upgrade
+Change Control & Change Management Process,Quarterly,195,55,Scheduled,0,1,-300.0,FDA,Medium,18,Process,System Upgrade
+Change Control & Change Management Process,Annual,64,138,Compliant,4,1,90.2,FDA,Low,3,Process,Process Automation
+Change Control & Change Management Process,Annual,328,168,Compliant,0,0,100.0,FDA,Low,0,Data Integrity,Data Governance
+Change Control & Change Management Process,Quarterly,116,18,Due Soon,1,5,-81.8,PMDA,High,25,Manufacturing,eBR Implementation
+Change Control & Change Management Process,Monthly,194,7,Due Soon,0,1,-300.0,FDA,High,8,Manufacturing,System Upgrade
+Change Control & Change Management Process,Continuous,302,4,Due Soon,0,0,100.0,Multiple,High,0,Manufacturing,None
+Change Control & Change Management Process,Quarterly,293,89,Compliant,1,1,63.6,PMDA,Low,3,Process,Data Governance
+Change Control & Change Management Process,Continuous,25,1,Due Soon,8,0,100.0,EMA,High,0,Data Integrity,Process Automation
+Change Control & Change Management Process,Semi-Annual,348,88,Compliant,0,0,100.0,Multiple,Low,0,All,None
+Change Control & Change Management Process,Semi-Annual,5,66,Compliant,4,1,90.2,EMA,Low,13,Quality,System Upgrade
+Change Control & Change Management Process,Monthly,137,18,Due Soon,1,0,100.0,FDA,High,0,Data Integrity,System Upgrade
+Change Control & Change Management Process,Continuous,362,6,Due Soon,1,0,100.0,Multiple,High,0,Quality,Process Automation
+Change Control & Change Management Process,Quarterly,258,59,Scheduled,3,0,100.0,PMDA,Medium,0,Data Integrity,Process Automation
+Change Control & Change Management Process,Continuous,157,3,Due Soon,1,0,100.0,FDA,High,0,Data Integrity,Process Automation
+Change Control & Change Management Process,Quarterly,325,11,Due Soon,1,2,27.3,FDA,High,18,Manufacturing,System Upgrade
+Change Control & Change Management Process,Annual,295,84,Compliant,4,1,90.2,FDA,Low,3,Manufacturing,Data Governance
+Change Control & Change Management Process,Continuous,6,7,Due Soon,3,0,100.0,Multiple,High,0,Process,System Upgrade
+Change Control & Change Management Process,Monthly,264,15,Due Soon,4,2,80.5,FDA,High,11,All,eBR Implementation
+Change Control & Change Management Process,Continuous,4,3,Due Soon,0,8,-3100.0,Multiple,High,14,Process,Data Governance
+Change Control & Change Management Process,Semi-Annual,271,169,Compliant,3,0,100.0,FDA,Low,0,Process,Process Automation
+Change Control & Change Management Process,Semi-Annual,269,172,Compliant,1,0,100.0,EMA,Low,0,Quality,eBR Implementation
+Change Control & Change Management Process,Quarterly,264,17,Due Soon,1,1,63.6,PMDA,High,21,Manufacturing,Process Automation
+Change Control & Change Management Process,Monthly,88,12,Due Soon,0,1,-300.0,PMDA,High,1,Manufacturing,Data Governance
+Change Control & Change Management Process,Semi-Annual,61,138,Compliant,1,4,-45.5,PMDA,Low,13,Data Integrity,Process Automation
+Change Control & Change Management Process,Quarterly,110,33,Scheduled,2,0,100.0,FDA,Medium,0,Process,Process Automation
+Change Control & Change Management Process,Semi-Annual,330,78,Compliant,1,0,100.0,FDA,Low,0,All,None
+Change Control & Change Management Process,Monthly,183,1,Due Soon,1,0,100.0,FDA,High,0,Process,Process Automation
+Change Control & Change Management Process,Quarterly,182,38,Scheduled,4,0,100.0,FDA,Medium,0,Manufacturing,Data Governance
+Change Control & Change Management Process,Semi-Annual,182,102,Compliant,0,1,-300.0,FDA,Low,23,Manufacturing,Process Automation
+Change Control & Change Management Process,Monthly,44,6,Due Soon,10,2,92.1,EMA,High,2,All,eBR Implementation
+Change Control & Change Management Process,Monthly,80,0,Due Soon,1,3,-9.1,PMDA,High,22,Quality,Process Automation
+Change Control & Change Management Process,Monthly,154,11,Due Soon,3,0,100.0,PMDA,High,0,All,System Upgrade
+Change Control & Change Management Process,Continuous,56,4,Due Soon,0,2,-700.0,Multiple,High,2,All,System Upgrade
+Change Control & Change Management Process,Semi-Annual,223,90,Compliant,3,5,35.5,FDA,Low,12,Data Integrity,System Upgrade
+Change Control & Change Management Process,Annual,146,97,Compliant,0,0,100.0,FDA,Low,0,Quality,Process Automation
+Change Control & Change Management Process,Monthly,170,23,Due Soon,0,1,-300.0,FDA,High,7,Quality,System Upgrade
+Change Control & Change Management Process,Monthly,341,30,Scheduled,0,0,100.0,PMDA,Medium,0,Manufacturing,Process Automation
+Change Control & Change Management Process,Monthly,254,17,Due Soon,0,5,-1900.0,EMA,High,17,Data Integrity,Process Automation
+Change Control & Change Management Process,Continuous,68,6,Due Soon,1,4,-45.5,FDA,High,11,Manufacturing,eBR Implementation
+Change Control & Change Management Process,Semi-Annual,177,39,Scheduled,4,1,90.2,FDA,Medium,14,Quality,eBR Implementation
+Change Control & Change Management Process,Quarterly,306,54,Scheduled,0,1,-300.0,FDA,Medium,18,All,Process Automation
+Change Control & Change Management Process,Quarterly,249,36,Scheduled,0,0,100.0,FDA,Medium,0,All,System Upgrade
+Change Control & Change Management Process,Continuous,262,2,Due Soon,0,0,100.0,EMA,High,0,Quality,Data Governance
+Change Control & Change Management Process,Annual,359,134,Compliant,0,1,-300.0,EMA,Low,3,All,System Upgrade
+Change Control & Change Management Process,Monthly,53,22,Due Soon,0,3,-1100.0,EMA,High,11,Quality,None
+Change Control & Change Management Process,Semi-Annual,62,58,Scheduled,0,0,100.0,EMA,Medium,0,All,eBR Implementation
+Change Control & Change Management Process,Quarterly,75,24,Due Soon,4,2,80.5,Multiple,High,1,Manufacturing,None
+Change Control & Change Management Process,Semi-Annual,27,23,Due Soon,8,2,90.1,Multiple,High,19,All,None
+Change Control & Change Management Process,Quarterly,325,89,Compliant,0,0,100.0,EMA,Low,0,Quality,Data Governance
+Change Control & Change Management Process,Monthly,32,15,Due Soon,1,0,100.0,Multiple,High,0,Manufacturing,Data Governance
+Change Control & Change Management Process,Annual,187,137,Compliant,0,0,100.0,PMDA,Low,0,Data Integrity,Process Automation
+Change Control & Change Management Process,Semi-Annual,25,81,Compliant,3,0,100.0,EMA,Low,0,Manufacturing,eBR Implementation
+Change Control & Change Management Process,Annual,165,338,Compliant,0,4,-1500.0,EMA,Low,0,Data Integrity,Process Automation
+Change Control & Change Management Process,Quarterly,52,77,Compliant,2,1,81.0,Multiple,Low,31,Quality,Data Governance
+Change Control & Change Management Process,Monthly,172,11,Due Soon,6,0,100.0,PMDA,High,0,Manufacturing,eBR Implementation
+Change Control & Change Management Process,Annual,283,349,Compliant,8,0,100.0,EMA,Low,0,Data Integrity,Data Governance
+Change Control & Change Management Process,Quarterly,271,75,Compliant,3,0,100.0,PMDA,Low,0,Quality,Data Governance
+Change Control & Change Management Process,Semi-Annual,197,149,Compliant,3,1,87.1,FDA,Low,9,Manufacturing,System Upgrade
+Change Control & Change Management Process,Continuous,22,1,Due Soon,3,0,100.0,EMA,High,0,Quality,Process Automation
+Change Control & Change Management Process,Annual,280,38,Scheduled,1,1,63.6,PMDA,Medium,1,Data Integrity,Process Automation
+Change Control & Change Management Process,Semi-Annual,79,136,Compliant,1,1,63.6,FDA,Low,27,Quality,System Upgrade
+Change Control & Change Management Process,Monthly,365,17,Due Soon,0,1,-300.0,PMDA,High,0,Process,Data Governance
+Change Control & Change Management Process,Quarterly,323,57,Scheduled,1,0,100.0,FDA,Medium,0,All,eBR Implementation
+Change Control & Change Management Process,Monthly,269,13,Due Soon,3,2,74.2,FDA,High,2,Quality,None
+Change Control & Change Management Process,Quarterly,67,89,Compliant,3,0,100.0,PMDA,Low,0,Manufacturing,None
+Change Control & Change Management Process,Annual,98,355,Compliant,1,1,63.6,Multiple,Low,4,All,None
+Change Control & Change Management Process,Continuous,85,1,Due Soon,0,2,-700.0,Multiple,High,15,Process,Process Automation
+Change Control & Change Management Process,Continuous,206,6,Due Soon,4,0,100.0,PMDA,High,0,Quality,System Upgrade
+Change Control & Change Management Process,Annual,293,81,Compliant,0,2,-700.0,EMA,Low,3,Process,eBR Implementation
+Change Control & Change Management Process,Continuous,258,7,Due Soon,4,2,80.5,PMDA,High,14,Data Integrity,System Upgrade
+Change Control & Change Management Process,Quarterly,138,90,Compliant,1,4,-45.5,FDA,Low,10,Quality,System Upgrade
+Change Control & Change Management Process,Annual,122,273,Compliant,2,1,81.0,PMDA,Low,0,Manufacturing,System Upgrade
+CAPA Effectiveness & Trending,Quarterly,139,17,Due Soon,1,3,-9.1,FDA,High,1,Quality,System Upgrade
+CAPA Effectiveness & Trending,Continuous,1,1,Due Soon,1,0,100.0,PMDA,High,0,Process,Data Governance
+CAPA Effectiveness & Trending,Quarterly,362,10,Due Soon,1,1,63.6,PMDA,High,55,Quality,Process Automation
+CAPA Effectiveness & Trending,Continuous,167,4,Due Soon,0,1,-300.0,FDA,High,14,Manufacturing,Data Governance
+CAPA Effectiveness & Trending,Semi-Annual,91,71,Compliant,2,0,100.0,PMDA,Low,0,Manufacturing,None
+CAPA Effectiveness & Trending,Continuous,353,1,Due Soon,2,4,23.8,Multiple,High,4,Data Integrity,None
+CAPA Effectiveness & Trending,Continuous,227,3,Due Soon,3,4,48.4,EMA,High,15,Data Integrity,Data Governance
+CAPA Effectiveness & Trending,Semi-Annual,323,148,Compliant,3,5,35.5,Multiple,Low,1,Quality,Process Automation
+CAPA Effectiveness & Trending,Semi-Annual,189,111,Compliant,4,0,100.0,EMA,Low,0,All,eBR Implementation
+CAPA Effectiveness & Trending,Monthly,236,5,Due Soon,1,1,63.6,EMA,High,0,Quality,System Upgrade
+CAPA Effectiveness & Trending,Continuous,93,7,Due Soon,1,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+CAPA Effectiveness & Trending,Semi-Annual,202,45,Scheduled,0,0,100.0,EMA,Medium,0,Manufacturing,System Upgrade
+CAPA Effectiveness & Trending,Annual,126,218,Compliant,4,0,100.0,Multiple,Low,0,All,eBR Implementation
+CAPA Effectiveness & Trending,Continuous,7,2,Due Soon,2,2,61.9,FDA,High,2,All,Process Automation
+CAPA Effectiveness & Trending,Annual,7,56,Scheduled,7,3,83.1,FDA,Medium,2,Quality,System Upgrade
+CAPA Effectiveness & Trending,Annual,74,137,Compliant,13,1,96.9,FDA,Low,3,Manufacturing,eBR Implementation
+CAPA Effectiveness & Trending,Continuous,363,5,Due Soon,3,1,87.1,FDA,High,9,Quality,System Upgrade
+CAPA Effectiveness & Trending,Monthly,289,24,Due Soon,3,0,100.0,Multiple,High,0,Quality,Data Governance
+CAPA Effectiveness & Trending,Quarterly,80,61,Compliant,11,2,92.8,EMA,Low,13,Manufacturing,None
+CAPA Effectiveness & Trending,Quarterly,279,80,Compliant,0,1,-300.0,FDA,Low,12,Manufacturing,eBR Implementation
+CAPA Effectiveness & Trending,Annual,152,278,Compliant,5,4,68.6,FDA,Low,24,Process,Process Automation
+CAPA Effectiveness & Trending,Semi-Annual,115,0,Due Soon,1,3,-9.1,FDA,High,0,Quality,Process Automation
+CAPA Effectiveness & Trending,Monthly,181,4,Due Soon,1,0,100.0,PMDA,High,0,Quality,Process Automation
+CAPA Effectiveness & Trending,Annual,87,251,Compliant,6,3,80.3,FDA,Low,2,Quality,eBR Implementation
+CAPA Effectiveness & Trending,Quarterly,40,45,Scheduled,1,6,-118.2,PMDA,Medium,8,Manufacturing,Data Governance
+CAPA Effectiveness & Trending,Annual,310,22,Due Soon,2,1,81.0,EMA,High,11,Quality,Process Automation
+CAPA Effectiveness & Trending,Continuous,308,5,Due Soon,9,0,100.0,EMA,High,0,All,System Upgrade
+CAPA Effectiveness & Trending,Quarterly,147,79,Compliant,0,0,100.0,PMDA,Low,0,Manufacturing,Data Governance
+CAPA Effectiveness & Trending,Monthly,189,21,Due Soon,0,1,-300.0,PMDA,High,26,Manufacturing,eBR Implementation
+CAPA Effectiveness & Trending,Semi-Annual,76,167,Compliant,3,7,9.7,PMDA,Low,24,Quality,Process Automation
+CAPA Effectiveness & Trending,Monthly,245,23,Due Soon,2,0,100.0,FDA,High,0,Manufacturing,None
+CAPA Effectiveness & Trending,Monthly,143,30,Scheduled,2,0,100.0,EMA,Medium,0,Manufacturing,Data Governance
+CAPA Effectiveness & Trending,Semi-Annual,198,46,Scheduled,2,0,100.0,PMDA,Medium,0,Data Integrity,Process Automation
+CAPA Effectiveness & Trending,Monthly,356,15,Due Soon,3,1,87.1,Multiple,High,3,Process,Data Governance
+CAPA Effectiveness & Trending,Semi-Annual,126,167,Compliant,2,0,100.0,Multiple,Low,0,All,None
+CAPA Effectiveness & Trending,Monthly,274,17,Due Soon,0,1,-300.0,Multiple,High,3,Process,None
+CAPA Effectiveness & Trending,Semi-Annual,43,98,Compliant,6,0,100.0,Multiple,Low,0,Process,None
+CAPA Effectiveness & Trending,Semi-Annual,45,179,Compliant,2,1,81.0,EMA,Low,2,Data Integrity,eBR Implementation
+CAPA Effectiveness & Trending,Semi-Annual,186,4,Due Soon,1,1,63.6,Multiple,High,3,Quality,eBR Implementation
+CAPA Effectiveness & Trending,Annual,185,178,Compliant,0,1,-300.0,EMA,Low,2,Data Integrity,Process Automation
+CAPA Effectiveness & Trending,Semi-Annual,216,141,Compliant,3,2,74.2,EMA,Low,1,Quality,System Upgrade
+CAPA Effectiveness & Trending,Annual,61,70,Compliant,1,0,100.0,EMA,Low,0,All,eBR Implementation
+CAPA Effectiveness & Trending,Monthly,28,11,Due Soon,3,0,100.0,FDA,High,0,Process,eBR Implementation
+CAPA Effectiveness & Trending,Monthly,305,26,Due Soon,1,0,100.0,EMA,High,0,Manufacturing,System Upgrade
+CAPA Effectiveness & Trending,Quarterly,41,18,Due Soon,0,1,-300.0,EMA,High,2,Manufacturing,eBR Implementation
+CAPA Effectiveness & Trending,Continuous,77,6,Due Soon,0,0,100.0,EMA,High,0,All,System Upgrade
+CAPA Effectiveness & Trending,Continuous,241,4,Due Soon,0,0,100.0,Multiple,High,0,Data Integrity,Process Automation
+CAPA Effectiveness & Trending,Annual,57,146,Compliant,1,0,100.0,EMA,Low,0,Manufacturing,eBR Implementation
+CAPA Effectiveness & Trending,Continuous,258,2,Due Soon,4,0,100.0,EMA,High,0,Manufacturing,Process Automation
+CAPA Effectiveness & Trending,Monthly,233,21,Due Soon,4,0,100.0,PMDA,High,0,Process,None
+CAPA Effectiveness & Trending,Quarterly,117,90,Compliant,3,0,100.0,Multiple,Low,0,Quality,Data Governance
+CAPA Effectiveness & Trending,Annual,194,267,Compliant,7,2,88.7,EMA,Low,1,Quality,Process Automation
+CAPA Effectiveness & Trending,Continuous,113,0,Due Soon,0,1,-300.0,Multiple,High,25,Quality,None
+CAPA Effectiveness & Trending,Continuous,355,1,Due Soon,1,0,100.0,Multiple,High,0,All,Data Governance
+CAPA Effectiveness & Trending,Monthly,195,26,Due Soon,0,0,100.0,EMA,High,0,Manufacturing,Data Governance
+CAPA Effectiveness & Trending,Monthly,139,6,Due Soon,1,0,100.0,FDA,High,0,Manufacturing,eBR Implementation
+CAPA Effectiveness & Trending,Quarterly,172,77,Compliant,0,0,100.0,FDA,Low,0,Quality,Data Governance
+CAPA Effectiveness & Trending,Semi-Annual,55,138,Compliant,3,1,87.1,FDA,Low,4,Quality,None
+CAPA Effectiveness & Trending,Annual,97,158,Compliant,6,0,100.0,EMA,Low,0,Manufacturing,System Upgrade
+CAPA Effectiveness & Trending,Quarterly,292,10,Due Soon,1,1,63.6,FDA,High,13,Process,Process Automation
+CAPA Effectiveness & Trending,Annual,162,24,Due Soon,5,0,100.0,FDA,High,0,Data Integrity,eBR Implementation
+CAPA Effectiveness & Trending,Quarterly,204,36,Scheduled,0,1,-300.0,EMA,Medium,4,Data Integrity,Process Automation
+CAPA Effectiveness & Trending,Quarterly,360,16,Due Soon,0,1,-300.0,FDA,High,4,Data Integrity,Process Automation
+CAPA Effectiveness & Trending,Continuous,258,1,Due Soon,1,0,100.0,EMA,High,0,Manufacturing,None
+CAPA Effectiveness & Trending,Monthly,301,15,Due Soon,0,0,100.0,FDA,High,0,Data Integrity,System Upgrade
+CAPA Effectiveness & Trending,Semi-Annual,238,174,Compliant,1,0,100.0,FDA,Low,0,Manufacturing,System Upgrade
+CAPA Effectiveness & Trending,Semi-Annual,335,174,Compliant,6,0,100.0,EMA,Low,0,Quality,None
+CAPA Effectiveness & Trending,Continuous,230,5,Due Soon,6,0,100.0,EMA,High,0,Data Integrity,Data Governance
+CAPA Effectiveness & Trending,Quarterly,221,79,Compliant,0,0,100.0,FDA,Low,0,All,System Upgrade
+CAPA Effectiveness & Trending,Semi-Annual,311,156,Compliant,1,1,63.6,FDA,Low,4,Quality,None
+CAPA Effectiveness & Trending,Monthly,8,3,Due Soon,3,0,100.0,EMA,High,0,Data Integrity,None
+CAPA Effectiveness & Trending,Annual,49,255,Compliant,3,1,87.1,Multiple,Low,2,Data Integrity,System Upgrade
+CAPA Effectiveness & Trending,Quarterly,35,20,Due Soon,5,2,84.3,PMDA,High,45,Process,Data Governance
+CAPA Effectiveness & Trending,Quarterly,37,11,Due Soon,0,2,-700.0,EMA,High,20,All,Data Governance
+CAPA Effectiveness & Trending,Monthly,227,8,Due Soon,3,1,87.1,EMA,High,31,Manufacturing,None
+CAPA Effectiveness & Trending,Monthly,187,1,Due Soon,10,1,96.0,PMDA,High,4,All,Process Automation
+CAPA Effectiveness & Trending,Continuous,226,2,Due Soon,5,0,100.0,PMDA,High,0,Process,None
+CAPA Effectiveness & Trending,Quarterly,43,47,Scheduled,1,6,-118.2,Multiple,Medium,16,Process,Process Automation
+CAPA Effectiveness & Trending,Quarterly,22,87,Compliant,8,1,95.1,FDA,Low,5,Quality,None
+CAPA Effectiveness & Trending,Annual,54,79,Compliant,11,0,100.0,PMDA,Low,0,All,System Upgrade
+CAPA Effectiveness & Trending,Continuous,38,6,Due Soon,4,1,90.2,EMA,High,2,All,Process Automation
+CAPA Effectiveness & Trending,Annual,239,178,Compliant,0,0,100.0,Multiple,Low,0,Process,Process Automation
+CAPA Effectiveness & Trending,Annual,93,43,Scheduled,2,0,100.0,FDA,Medium,0,All,Process Automation
+CAPA Effectiveness & Trending,Semi-Annual,169,102,Compliant,1,1,63.6,FDA,Low,12,Data Integrity,Data Governance
+CAPA Effectiveness & Trending,Continuous,109,7,Due Soon,0,1,-300.0,Multiple,High,0,Manufacturing,Data Governance
+CAPA Effectiveness & Trending,Monthly,280,1,Due Soon,0,0,100.0,EMA,High,0,All,System Upgrade
+CAPA Effectiveness & Trending,Semi-Annual,291,81,Compliant,3,0,100.0,FDA,Low,0,Process,Process Automation
+CAPA Effectiveness & Trending,Annual,221,185,Compliant,0,0,100.0,Multiple,Low,0,Quality,eBR Implementation
+CAPA Effectiveness & Trending,Semi-Annual,351,5,Due Soon,8,3,85.2,Multiple,High,0,Data Integrity,Data Governance
+CAPA Effectiveness & Trending,Semi-Annual,73,21,Due Soon,1,4,-45.5,FDA,High,1,Data Integrity,Process Automation
+CAPA Effectiveness & Trending,Annual,365,152,Compliant,0,0,100.0,Multiple,Low,0,All,None
+CAPA Effectiveness & Trending,Semi-Annual,133,171,Compliant,11,2,92.8,EMA,Low,2,Manufacturing,eBR Implementation
+CAPA Effectiveness & Trending,Monthly,153,10,Due Soon,0,5,-1900.0,EMA,High,5,Quality,Data Governance
+CAPA Effectiveness & Trending,Monthly,244,15,Due Soon,2,0,100.0,EMA,High,0,All,Data Governance
+CAPA Effectiveness & Trending,Continuous,6,6,Due Soon,4,0,100.0,EMA,High,0,Manufacturing,None
+CAPA Effectiveness & Trending,Continuous,166,2,Due Soon,4,0,100.0,PMDA,High,0,Manufacturing,System Upgrade
+CAPA Effectiveness & Trending,Monthly,76,29,Due Soon,0,0,100.0,Multiple,High,0,Data Integrity,eBR Implementation
+CAPA Effectiveness & Trending,Monthly,267,8,Due Soon,5,0,100.0,FDA,High,0,All,System Upgrade
+CAPA Effectiveness & Trending,Monthly,297,20,Due Soon,0,1,-300.0,FDA,High,11,Manufacturing,System Upgrade
+CAPA Effectiveness & Trending,Semi-Annual,357,107,Compliant,4,0,100.0,EMA,Low,0,Process,Process Automation
+Deviation Investigation & Trending,Semi-Annual,108,89,Compliant,0,1,-300.0,EMA,Low,3,Process,eBR Implementation
+Deviation Investigation & Trending,Quarterly,9,46,Scheduled,8,1,95.1,PMDA,Medium,6,Data Integrity,None
+Deviation Investigation & Trending,Annual,256,358,Compliant,1,0,100.0,Multiple,Low,0,All,Process Automation
+Deviation Investigation & Trending,Quarterly,278,45,Scheduled,2,0,100.0,Multiple,Medium,0,Process,Data Governance
+Deviation Investigation & Trending,Annual,235,90,Compliant,6,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Deviation Investigation & Trending,Continuous,278,2,Due Soon,1,0,100.0,Multiple,High,0,All,Data Governance
+Deviation Investigation & Trending,Monthly,146,20,Due Soon,3,0,100.0,FDA,High,0,Manufacturing,eBR Implementation
+Deviation Investigation & Trending,Annual,9,332,Compliant,1,1,63.6,Multiple,Low,4,Manufacturing,Process Automation
+Deviation Investigation & Trending,Continuous,325,1,Due Soon,4,1,90.2,Multiple,High,35,Process,None
+Deviation Investigation & Trending,Annual,149,341,Compliant,2,1,81.0,Multiple,Low,2,Quality,System Upgrade
+Deviation Investigation & Trending,Monthly,196,17,Due Soon,1,0,100.0,FDA,High,0,Quality,Process Automation
+Deviation Investigation & Trending,Annual,238,179,Compliant,3,0,100.0,Multiple,Low,0,All,eBR Implementation
+Deviation Investigation & Trending,Quarterly,260,28,Due Soon,2,0,100.0,PMDA,High,0,Data Integrity,Data Governance
+Deviation Investigation & Trending,Quarterly,345,53,Scheduled,2,0,100.0,EMA,Medium,0,Manufacturing,Process Automation
+Deviation Investigation & Trending,Annual,14,7,Due Soon,1,4,-45.5,EMA,High,12,Data Integrity,None
+Deviation Investigation & Trending,Continuous,172,5,Due Soon,0,1,-300.0,EMA,High,6,Process,Process Automation
+Deviation Investigation & Trending,Semi-Annual,201,142,Compliant,4,2,80.5,EMA,Low,3,Process,Process Automation
+Deviation Investigation & Trending,Annual,220,295,Compliant,5,0,100.0,EMA,Low,0,All,System Upgrade
+Deviation Investigation & Trending,Monthly,163,28,Due Soon,4,0,100.0,EMA,High,0,All,System Upgrade
+Deviation Investigation & Trending,Annual,65,363,Compliant,1,2,27.3,FDA,Low,5,Process,Process Automation
+Deviation Investigation & Trending,Quarterly,82,70,Compliant,13,0,100.0,PMDA,Low,0,Quality,eBR Implementation
+Deviation Investigation & Trending,Annual,224,13,Due Soon,1,1,63.6,FDA,High,0,Process,System Upgrade
+Deviation Investigation & Trending,Annual,363,316,Compliant,0,0,100.0,FDA,Low,0,Process,Process Automation
+Deviation Investigation & Trending,Annual,233,66,Compliant,14,2,94.3,PMDA,Low,4,Quality,System Upgrade
+Deviation Investigation & Trending,Semi-Annual,100,76,Compliant,0,0,100.0,EMA,Low,0,All,Data Governance
+Deviation Investigation & Trending,Annual,43,140,Compliant,2,5,4.8,EMA,Low,11,Manufacturing,None
+Deviation Investigation & Trending,Annual,236,56,Scheduled,1,1,63.6,FDA,Medium,68,Manufacturing,System Upgrade
+Deviation Investigation & Trending,Quarterly,93,33,Scheduled,2,4,23.8,FDA,Medium,0,Manufacturing,Process Automation
+Deviation Investigation & Trending,Quarterly,201,26,Due Soon,3,1,87.1,FDA,High,11,All,eBR Implementation
+Deviation Investigation & Trending,Monthly,250,2,Due Soon,2,0,100.0,FDA,High,0,Quality,Process Automation
+Deviation Investigation & Trending,Monthly,161,28,Due Soon,0,3,-1100.0,Multiple,High,2,Quality,System Upgrade
+Deviation Investigation & Trending,Quarterly,92,1,Due Soon,14,1,97.2,FDA,High,5,Manufacturing,Data Governance
+Deviation Investigation & Trending,Quarterly,315,61,Compliant,7,2,88.7,FDA,Low,5,Quality,None
+Deviation Investigation & Trending,Quarterly,99,15,Due Soon,0,3,-1100.0,FDA,High,14,Process,eBR Implementation
+Deviation Investigation & Trending,Continuous,111,2,Due Soon,4,2,80.5,PMDA,High,3,Manufacturing,System Upgrade
+Deviation Investigation & Trending,Annual,71,167,Compliant,5,0,100.0,EMA,Low,0,Manufacturing,System Upgrade
+Deviation Investigation & Trending,Quarterly,247,35,Scheduled,0,0,100.0,EMA,Medium,0,Manufacturing,Data Governance
+Deviation Investigation & Trending,Continuous,240,4,Due Soon,0,1,-300.0,Multiple,High,0,All,None
+Deviation Investigation & Trending,Monthly,99,29,Due Soon,0,0,100.0,PMDA,High,0,Quality,System Upgrade
+Deviation Investigation & Trending,Quarterly,53,50,Scheduled,3,0,100.0,PMDA,Medium,0,Quality,System Upgrade
+Deviation Investigation & Trending,Monthly,229,13,Due Soon,1,2,27.3,Multiple,High,6,Process,Data Governance
+Deviation Investigation & Trending,Quarterly,56,79,Compliant,1,4,-45.5,Multiple,Low,0,All,System Upgrade
+Deviation Investigation & Trending,Continuous,192,5,Due Soon,1,1,63.6,FDA,High,15,All,System Upgrade
+Deviation Investigation & Trending,Annual,130,261,Compliant,5,0,100.0,Multiple,Low,0,Data Integrity,None
+Deviation Investigation & Trending,Continuous,204,5,Due Soon,3,1,87.1,FDA,High,2,Manufacturing,System Upgrade
+Deviation Investigation & Trending,Quarterly,96,54,Scheduled,0,2,-700.0,PMDA,Medium,2,Quality,eBR Implementation
+Deviation Investigation & Trending,Semi-Annual,191,168,Compliant,0,0,100.0,PMDA,Low,0,Quality,Data Governance
+Deviation Investigation & Trending,Annual,164,4,Due Soon,0,0,100.0,FDA,High,0,Data Integrity,System Upgrade
+Deviation Investigation & Trending,Monthly,165,18,Due Soon,1,0,100.0,EMA,High,0,Process,eBR Implementation
+Deviation Investigation & Trending,Monthly,309,9,Due Soon,7,0,100.0,EMA,High,0,Process,System Upgrade
+Deviation Investigation & Trending,Annual,143,287,Compliant,1,4,-45.5,FDA,Low,21,Process,Process Automation
+Deviation Investigation & Trending,Monthly,164,10,Due Soon,1,0,100.0,EMA,High,0,Quality,eBR Implementation
+Deviation Investigation & Trending,Monthly,24,15,Due Soon,2,3,42.9,PMDA,High,0,All,eBR Implementation
+Deviation Investigation & Trending,Annual,88,231,Compliant,1,2,27.3,PMDA,Low,5,Process,Process Automation
+Deviation Investigation & Trending,Semi-Annual,11,147,Compliant,3,1,87.1,PMDA,Low,2,Manufacturing,None
+Deviation Investigation & Trending,Annual,146,236,Compliant,1,1,63.6,EMA,Low,12,All,eBR Implementation
+Deviation Investigation & Trending,Continuous,173,0,Due Soon,5,2,84.3,FDA,High,0,Manufacturing,Process Automation
+Deviation Investigation & Trending,Annual,155,212,Compliant,3,1,87.1,PMDA,Low,8,Data Integrity,Data Governance
+Deviation Investigation & Trending,Monthly,285,2,Due Soon,1,1,63.6,PMDA,High,11,All,None
+Deviation Investigation & Trending,Annual,153,201,Compliant,2,2,61.9,Multiple,Low,1,All,eBR Implementation
+Deviation Investigation & Trending,Quarterly,53,79,Compliant,1,1,63.6,FDA,Low,31,Quality,eBR Implementation
+Deviation Investigation & Trending,Annual,54,71,Compliant,0,0,100.0,PMDA,Low,0,All,System Upgrade
+Deviation Investigation & Trending,Semi-Annual,98,22,Due Soon,7,3,83.1,PMDA,High,20,Process,eBR Implementation
+Deviation Investigation & Trending,Annual,23,132,Compliant,1,2,27.3,FDA,Low,7,Manufacturing,Data Governance
+Deviation Investigation & Trending,Annual,169,135,Compliant,2,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Deviation Investigation & Trending,Semi-Annual,236,149,Compliant,3,0,100.0,FDA,Low,0,Quality,Data Governance
+Deviation Investigation & Trending,Semi-Annual,212,149,Compliant,1,1,63.6,Multiple,Low,2,Manufacturing,None
+Deviation Investigation & Trending,Continuous,296,3,Due Soon,0,0,100.0,Multiple,High,0,All,Data Governance
+Deviation Investigation & Trending,Quarterly,116,61,Compliant,4,0,100.0,FDA,Low,0,Data Integrity,Data Governance
+Deviation Investigation & Trending,Annual,286,180,Compliant,4,1,90.2,EMA,Low,11,Quality,eBR Implementation
+Deviation Investigation & Trending,Annual,31,253,Compliant,1,2,27.3,EMA,Low,0,Manufacturing,System Upgrade
+Deviation Investigation & Trending,Monthly,198,26,Due Soon,1,1,63.6,EMA,High,43,All,eBR Implementation
+Deviation Investigation & Trending,Quarterly,303,26,Due Soon,0,1,-300.0,PMDA,High,25,Data Integrity,Process Automation
+Deviation Investigation & Trending,Semi-Annual,55,129,Compliant,5,0,100.0,EMA,Low,0,Quality,Data Governance
+Deviation Investigation & Trending,Monthly,318,14,Due Soon,2,0,100.0,EMA,High,0,All,System Upgrade
+Deviation Investigation & Trending,Annual,217,142,Compliant,4,0,100.0,EMA,Low,0,Data Integrity,None
+Deviation Investigation & Trending,Annual,237,75,Compliant,4,4,61.0,FDA,Low,37,Manufacturing,System Upgrade
+Deviation Investigation & Trending,Annual,96,235,Compliant,6,0,100.0,PMDA,Low,0,Manufacturing,Process Automation
+Deviation Investigation & Trending,Continuous,181,7,Due Soon,0,1,-300.0,PMDA,High,7,Manufacturing,None
+Deviation Investigation & Trending,Annual,221,181,Compliant,0,0,100.0,EMA,Low,0,Quality,Process Automation
+Deviation Investigation & Trending,Continuous,261,6,Due Soon,7,3,83.1,PMDA,High,2,Manufacturing,Process Automation
+Deviation Investigation & Trending,Quarterly,51,47,Scheduled,1,1,63.6,FDA,Medium,19,All,Process Automation
+Deviation Investigation & Trending,Semi-Annual,97,75,Compliant,2,5,4.8,Multiple,Low,16,Quality,None
+Deviation Investigation & Trending,Quarterly,312,67,Compliant,9,1,95.6,Multiple,Low,21,Process,Process Automation
+Deviation Investigation & Trending,Annual,26,348,Compliant,5,0,100.0,EMA,Low,0,Manufacturing,System Upgrade
+Deviation Investigation & Trending,Annual,19,27,Due Soon,0,2,-700.0,PMDA,High,0,Quality,eBR Implementation
+Deviation Investigation & Trending,Continuous,142,1,Due Soon,1,2,27.3,EMA,High,16,Process,Process Automation
+Deviation Investigation & Trending,Monthly,52,12,Due Soon,0,1,-300.0,EMA,High,6,Data Integrity,Process Automation
+Deviation Investigation & Trending,Semi-Annual,105,43,Scheduled,1,3,-9.1,PMDA,Medium,10,Data Integrity,None
+Deviation Investigation & Trending,Quarterly,49,0,Due Soon,11,0,100.0,EMA,High,0,Process,None
+Deviation Investigation & Trending,Monthly,157,23,Due Soon,1,2,27.3,EMA,High,5,Quality,Data Governance
+Deviation Investigation & Trending,Annual,96,85,Compliant,0,9,-3500.0,PMDA,Low,20,All,System Upgrade
+Deviation Investigation & Trending,Annual,243,341,Compliant,2,1,81.0,Multiple,Low,0,Data Integrity,eBR Implementation
+Deviation Investigation & Trending,Semi-Annual,40,67,Compliant,11,2,92.8,EMA,Low,0,Manufacturing,None
+Deviation Investigation & Trending,Quarterly,299,60,Compliant,0,2,-700.0,FDA,Low,0,All,System Upgrade
+Deviation Investigation & Trending,Monthly,24,3,Due Soon,8,13,35.8,FDA,High,21,Process,Data Governance
+Deviation Investigation & Trending,Semi-Annual,258,134,Compliant,4,1,90.2,EMA,Low,0,Quality,eBR Implementation
+Deviation Investigation & Trending,Annual,172,155,Compliant,3,0,100.0,Multiple,Low,0,All,Data Governance
+Deviation Investigation & Trending,Continuous,340,4,Due Soon,2,0,100.0,Multiple,High,0,Data Integrity,Data Governance
+Deviation Investigation & Trending,Monthly,181,0,Due Soon,0,0,100.0,PMDA,High,0,Data Integrity,None
+Supplier Qualification & Re-qualification,Continuous,58,7,Due Soon,5,0,100.0,PMDA,High,0,Process,eBR Implementation
+Supplier Qualification & Re-qualification,Semi-Annual,113,105,Compliant,1,0,100.0,EMA,Low,0,Data Integrity,Process Automation
+Supplier Qualification & Re-qualification,Annual,296,125,Compliant,0,3,-1100.0,Multiple,Low,8,Data Integrity,System Upgrade
+Supplier Qualification & Re-qualification,Annual,194,99,Compliant,0,0,100.0,FDA,Low,0,Data Integrity,None
+Supplier Qualification & Re-qualification,Monthly,270,30,Scheduled,12,1,96.7,EMA,Medium,3,Data Integrity,Data Governance
+Supplier Qualification & Re-qualification,Quarterly,302,50,Scheduled,1,0,100.0,Multiple,Medium,0,Data Integrity,Data Governance
+Supplier Qualification & Re-qualification,Semi-Annual,297,10,Due Soon,0,2,-700.0,PMDA,High,3,Process,eBR Implementation
+Supplier Qualification & Re-qualification,Monthly,233,25,Due Soon,5,0,100.0,PMDA,High,0,Data Integrity,eBR Implementation
+Supplier Qualification & Re-qualification,Annual,351,255,Compliant,0,2,-700.0,EMA,Low,4,All,System Upgrade
+Supplier Qualification & Re-qualification,Continuous,320,4,Due Soon,3,2,74.2,EMA,High,32,Data Integrity,Process Automation
+Supplier Qualification & Re-qualification,Quarterly,151,8,Due Soon,0,0,100.0,FDA,High,0,All,eBR Implementation
+Supplier Qualification & Re-qualification,Semi-Annual,304,72,Compliant,2,0,100.0,FDA,Low,0,Manufacturing,Process Automation
+Supplier Qualification & Re-qualification,Quarterly,221,0,Due Soon,1,0,100.0,PMDA,High,0,Manufacturing,eBR Implementation
+Supplier Qualification & Re-qualification,Quarterly,180,17,Due Soon,2,0,100.0,PMDA,High,0,Process,None
+Supplier Qualification & Re-qualification,Semi-Annual,139,22,Due Soon,5,2,84.3,EMA,High,0,Quality,Process Automation
+Supplier Qualification & Re-qualification,Continuous,149,1,Due Soon,5,0,100.0,EMA,High,0,Manufacturing,Process Automation
+Supplier Qualification & Re-qualification,Quarterly,348,31,Scheduled,1,0,100.0,Multiple,Medium,0,All,Process Automation
+Supplier Qualification & Re-qualification,Annual,155,133,Compliant,5,0,100.0,PMDA,Low,0,Quality,None
+Supplier Qualification & Re-qualification,Monthly,166,21,Due Soon,0,5,-1900.0,EMA,High,2,Quality,Data Governance
+Supplier Qualification & Re-qualification,Semi-Annual,284,106,Compliant,8,0,100.0,EMA,Low,0,Data Integrity,Data Governance
+Supplier Qualification & Re-qualification,Annual,291,152,Compliant,5,1,92.2,Multiple,Low,19,Process,System Upgrade
+Supplier Qualification & Re-qualification,Monthly,224,25,Due Soon,11,3,89.2,FDA,High,5,Quality,None
+Supplier Qualification & Re-qualification,Monthly,161,22,Due Soon,5,1,92.2,PMDA,High,0,All,Data Governance
+Supplier Qualification & Re-qualification,Monthly,216,14,Due Soon,7,0,100.0,Multiple,High,0,All,eBR Implementation
+Supplier Qualification & Re-qualification,Continuous,216,0,Due Soon,0,0,100.0,FDA,High,0,Quality,None
+Supplier Qualification & Re-qualification,Quarterly,298,31,Scheduled,2,1,81.0,PMDA,Medium,8,Quality,None
+Supplier Qualification & Re-qualification,Continuous,28,4,Due Soon,0,1,-300.0,Multiple,High,23,Quality,Process Automation
+Supplier Qualification & Re-qualification,Annual,266,236,Compliant,1,1,63.6,Multiple,Low,2,Manufacturing,eBR Implementation
+Supplier Qualification & Re-qualification,Annual,333,138,Compliant,0,1,-300.0,FDA,Low,0,Data Integrity,None
+Supplier Qualification & Re-qualification,Annual,290,148,Compliant,3,1,87.1,Multiple,Low,4,Data Integrity,eBR Implementation
+Supplier Qualification & Re-qualification,Annual,346,299,Compliant,1,3,-9.1,FDA,Low,0,Quality,None
+Supplier Qualification & Re-qualification,Semi-Annual,254,143,Compliant,2,3,42.9,EMA,Low,24,Quality,System Upgrade
+Supplier Qualification & Re-qualification,Quarterly,160,80,Compliant,2,0,100.0,FDA,Low,0,All,None
+Supplier Qualification & Re-qualification,Semi-Annual,35,29,Due Soon,0,0,100.0,FDA,High,0,Quality,None
+Supplier Qualification & Re-qualification,Annual,50,266,Compliant,3,0,100.0,EMA,Low,0,Quality,eBR Implementation
+Supplier Qualification & Re-qualification,Monthly,259,0,Due Soon,6,1,93.4,Multiple,High,0,All,eBR Implementation
+Supplier Qualification & Re-qualification,Annual,208,153,Compliant,0,1,-300.0,Multiple,Low,0,Quality,System Upgrade
+Supplier Qualification & Re-qualification,Continuous,314,4,Due Soon,4,3,70.7,Multiple,High,32,Process,eBR Implementation
+Supplier Qualification & Re-qualification,Monthly,326,4,Due Soon,3,2,74.2,FDA,High,9,Quality,System Upgrade
+Supplier Qualification & Re-qualification,Semi-Annual,262,43,Scheduled,1,1,63.6,EMA,Medium,2,All,Process Automation
+Supplier Qualification & Re-qualification,Quarterly,342,37,Scheduled,0,2,-700.0,FDA,Medium,31,Process,Process Automation
+Supplier Qualification & Re-qualification,Quarterly,141,85,Compliant,2,0,100.0,Multiple,Low,0,All,eBR Implementation
+Supplier Qualification & Re-qualification,Monthly,218,13,Due Soon,2,0,100.0,EMA,High,0,Manufacturing,Data Governance
+Supplier Qualification & Re-qualification,Monthly,289,3,Due Soon,1,4,-45.5,Multiple,High,6,Manufacturing,None
+Supplier Qualification & Re-qualification,Quarterly,331,4,Due Soon,0,2,-700.0,Multiple,High,4,Manufacturing,Data Governance
+Supplier Qualification & Re-qualification,Semi-Annual,235,119,Compliant,3,1,87.1,PMDA,Low,12,Manufacturing,System Upgrade
+Supplier Qualification & Re-qualification,Quarterly,258,64,Compliant,0,0,100.0,EMA,Low,0,Data Integrity,None
+Supplier Qualification & Re-qualification,Monthly,33,16,Due Soon,1,1,63.6,EMA,High,2,Quality,Data Governance
+Supplier Qualification & Re-qualification,Continuous,236,5,Due Soon,1,5,-81.8,EMA,High,2,Data Integrity,Data Governance
+Supplier Qualification & Re-qualification,Monthly,331,2,Due Soon,5,2,84.3,Multiple,High,22,All,Process Automation
+Supplier Qualification & Re-qualification,Continuous,295,2,Due Soon,7,1,94.4,PMDA,High,11,Quality,Data Governance
+Supplier Qualification & Re-qualification,Continuous,300,5,Due Soon,2,0,100.0,Multiple,High,0,Manufacturing,eBR Implementation
+Supplier Qualification & Re-qualification,Annual,119,81,Compliant,0,0,100.0,FDA,Low,0,Manufacturing,Process Automation
+Supplier Qualification & Re-qualification,Monthly,119,10,Due Soon,0,2,-700.0,EMA,High,33,Manufacturing,System Upgrade
+Supplier Qualification & Re-qualification,Monthly,216,24,Due Soon,6,0,100.0,FDA,High,0,Manufacturing,None
+Supplier Qualification & Re-qualification,Quarterly,20,14,Due Soon,0,2,-700.0,FDA,High,4,All,Data Governance
+Supplier Qualification & Re-qualification,Continuous,90,0,Due Soon,5,2,84.3,PMDA,High,9,Manufacturing,Process Automation
+Supplier Qualification & Re-qualification,Monthly,327,4,Due Soon,0,0,100.0,EMA,High,0,Quality,Data Governance
+Supplier Qualification & Re-qualification,Monthly,348,14,Due Soon,0,1,-300.0,PMDA,High,38,Quality,System Upgrade
+Supplier Qualification & Re-qualification,Semi-Annual,271,111,Compliant,0,0,100.0,EMA,Low,0,Manufacturing,None
+Supplier Qualification & Re-qualification,Annual,343,322,Compliant,2,0,100.0,FDA,Low,0,Quality,eBR Implementation
+Supplier Qualification & Re-qualification,Semi-Annual,185,1,Due Soon,5,0,100.0,Multiple,High,0,Process,None
+Supplier Qualification & Re-qualification,Annual,95,174,Compliant,9,3,86.8,Multiple,Low,21,Quality,System Upgrade
+Supplier Qualification & Re-qualification,Continuous,257,7,Due Soon,0,0,100.0,PMDA,High,0,Data Integrity,None
+Supplier Qualification & Re-qualification,Continuous,35,2,Due Soon,4,2,80.5,Multiple,High,12,All,Process Automation
+Supplier Qualification & Re-qualification,Annual,41,291,Compliant,1,0,100.0,EMA,Low,0,Process,Data Governance
+Supplier Qualification & Re-qualification,Annual,256,60,Compliant,9,0,100.0,EMA,Low,0,Manufacturing,None
+Supplier Qualification & Re-qualification,Continuous,12,5,Due Soon,0,0,100.0,EMA,High,0,Data Integrity,Data Governance
+Supplier Qualification & Re-qualification,Monthly,184,22,Due Soon,4,0,100.0,FDA,High,0,Quality,Data Governance
+Supplier Qualification & Re-qualification,Annual,295,273,Compliant,2,0,100.0,EMA,Low,0,Process,None
+Supplier Qualification & Re-qualification,Continuous,205,4,Due Soon,0,2,-700.0,FDA,High,0,Process,eBR Implementation
+Supplier Qualification & Re-qualification,Continuous,135,7,Due Soon,1,1,63.6,FDA,High,5,Manufacturing,Data Governance
+Supplier Qualification & Re-qualification,Monthly,103,8,Due Soon,0,3,-1100.0,PMDA,High,26,Manufacturing,System Upgrade
+Supplier Qualification & Re-qualification,Semi-Annual,169,140,Compliant,1,0,100.0,FDA,Low,0,Quality,Process Automation
+Supplier Qualification & Re-qualification,Annual,313,288,Compliant,1,2,27.3,FDA,Low,8,Data Integrity,eBR Implementation
+Supplier Qualification & Re-qualification,Monthly,314,19,Due Soon,0,2,-700.0,FDA,High,7,Process,Process Automation
+Supplier Qualification & Re-qualification,Semi-Annual,22,69,Compliant,1,0,100.0,FDA,Low,0,Manufacturing,Process Automation
+Supplier Qualification & Re-qualification,Continuous,333,3,Due Soon,0,4,-1500.0,PMDA,High,13,All,Process Automation
+Supplier Qualification & Re-qualification,Quarterly,11,29,Due Soon,0,1,-300.0,FDA,High,8,Manufacturing,System Upgrade
+Supplier Qualification & Re-qualification,Continuous,350,6,Due Soon,0,0,100.0,FDA,High,0,Process,Process Automation
+Supplier Qualification & Re-qualification,Annual,194,198,Compliant,3,0,100.0,EMA,Low,0,All,Process Automation
+Supplier Qualification & Re-qualification,Continuous,60,2,Due Soon,1,0,100.0,Multiple,High,0,Manufacturing,None
+Supplier Qualification & Re-qualification,Quarterly,100,45,Scheduled,1,1,63.6,PMDA,Medium,1,All,eBR Implementation
+Supplier Qualification & Re-qualification,Semi-Annual,48,59,Scheduled,2,0,100.0,FDA,Medium,0,Quality,Process Automation
+Supplier Qualification & Re-qualification,Continuous,8,0,Due Soon,3,0,100.0,EMA,High,0,Manufacturing,eBR Implementation
+Supplier Qualification & Re-qualification,Annual,225,64,Compliant,2,1,81.0,EMA,Low,11,Data Integrity,eBR Implementation
+Supplier Qualification & Re-qualification,Quarterly,309,44,Scheduled,4,0,100.0,EMA,Medium,0,Data Integrity,System Upgrade
+Supplier Qualification & Re-qualification,Continuous,246,6,Due Soon,10,2,92.1,FDA,High,8,Manufacturing,eBR Implementation
+Supplier Qualification & Re-qualification,Quarterly,106,69,Compliant,6,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Supplier Qualification & Re-qualification,Monthly,155,22,Due Soon,0,1,-300.0,PMDA,High,28,Process,Data Governance
+Supplier Qualification & Re-qualification,Semi-Annual,137,134,Compliant,0,1,-300.0,PMDA,Low,16,Process,None
+Supplier Qualification & Re-qualification,Annual,178,27,Due Soon,7,0,100.0,Multiple,High,0,Process,Process Automation
+Supplier Qualification & Re-qualification,Quarterly,105,10,Due Soon,0,0,100.0,EMA,High,0,Process,System Upgrade
+Supplier Qualification & Re-qualification,Quarterly,108,70,Compliant,2,3,42.9,FDA,Low,8,Data Integrity,System Upgrade
+Supplier Qualification & Re-qualification,Annual,358,120,Compliant,7,2,88.7,Multiple,Low,9,All,eBR Implementation
+Supplier Qualification & Re-qualification,Annual,18,255,Compliant,0,0,100.0,PMDA,Low,0,Data Integrity,None
+Supplier Qualification & Re-qualification,Monthly,44,9,Due Soon,0,0,100.0,FDA,High,0,Data Integrity,None
+Supplier Qualification & Re-qualification,Monthly,10,15,Due Soon,0,0,100.0,Multiple,High,0,All,Process Automation
+Supplier Qualification & Re-qualification,Annual,106,114,Compliant,1,1,63.6,Multiple,Low,2,Quality,Process Automation
+Supplier Qualification & Re-qualification,Continuous,339,0,Due Soon,3,1,87.1,PMDA,High,11,Manufacturing,None
+Environmental Monitoring Program,Quarterly,312,3,Due Soon,3,1,87.1,PMDA,High,27,Data Integrity,None
+Environmental Monitoring Program,Semi-Annual,175,7,Due Soon,0,0,100.0,Multiple,High,0,All,eBR Implementation
+Environmental Monitoring Program,Annual,199,283,Compliant,0,1,-300.0,PMDA,Low,5,Process,Process Automation
+Environmental Monitoring Program,Monthly,291,18,Due Soon,2,0,100.0,PMDA,High,0,Quality,Process Automation
+Environmental Monitoring Program,Monthly,122,23,Due Soon,3,1,87.1,EMA,High,3,Manufacturing,Data Governance
+Environmental Monitoring Program,Quarterly,128,10,Due Soon,1,3,-9.1,PMDA,High,14,Data Integrity,None
+Environmental Monitoring Program,Monthly,316,1,Due Soon,0,3,-1100.0,PMDA,High,0,Data Integrity,Data Governance
+Environmental Monitoring Program,Quarterly,312,83,Compliant,1,0,100.0,FDA,Low,0,Manufacturing,Data Governance
+Environmental Monitoring Program,Continuous,136,5,Due Soon,7,0,100.0,EMA,High,0,All,Process Automation
+Environmental Monitoring Program,Annual,5,225,Compliant,0,3,-1100.0,Multiple,Low,8,Manufacturing,Data Governance
+Environmental Monitoring Program,Monthly,285,20,Due Soon,4,0,100.0,EMA,High,0,All,eBR Implementation
+Environmental Monitoring Program,Continuous,142,1,Due Soon,1,6,-118.2,PMDA,High,8,Manufacturing,Process Automation
+Environmental Monitoring Program,Semi-Annual,142,66,Compliant,5,4,68.6,PMDA,Low,11,All,System Upgrade
+Environmental Monitoring Program,Semi-Annual,90,161,Compliant,1,0,100.0,EMA,Low,0,Process,eBR Implementation
+Environmental Monitoring Program,Semi-Annual,336,29,Due Soon,0,0,100.0,FDA,High,0,Quality,None
+Environmental Monitoring Program,Monthly,163,18,Due Soon,7,0,100.0,FDA,High,0,Process,System Upgrade
+Environmental Monitoring Program,Annual,133,365,Compliant,7,2,88.7,PMDA,Low,41,Manufacturing,Data Governance
+Environmental Monitoring Program,Continuous,308,0,Due Soon,8,1,95.1,EMA,High,20,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Annual,228,259,Compliant,4,1,90.2,FDA,Low,12,Process,eBR Implementation
+Environmental Monitoring Program,Semi-Annual,167,52,Scheduled,3,0,100.0,PMDA,Medium,0,All,eBR Implementation
+Environmental Monitoring Program,Monthly,145,28,Due Soon,1,0,100.0,EMA,High,0,Manufacturing,Data Governance
+Environmental Monitoring Program,Continuous,172,5,Due Soon,0,0,100.0,Multiple,High,0,Data Integrity,Process Automation
+Environmental Monitoring Program,Quarterly,16,79,Compliant,6,1,93.4,EMA,Low,0,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Quarterly,303,19,Due Soon,5,4,68.6,FDA,High,17,Manufacturing,None
+Environmental Monitoring Program,Semi-Annual,262,80,Compliant,3,0,100.0,PMDA,Low,0,Quality,Process Automation
+Environmental Monitoring Program,Continuous,337,0,Due Soon,1,1,63.6,EMA,High,0,All,eBR Implementation
+Environmental Monitoring Program,Annual,290,114,Compliant,0,4,-1500.0,Multiple,Low,12,Process,eBR Implementation
+Environmental Monitoring Program,Continuous,311,0,Due Soon,0,0,100.0,Multiple,High,0,Process,None
+Environmental Monitoring Program,Monthly,138,10,Due Soon,1,0,100.0,EMA,High,0,Process,Data Governance
+Environmental Monitoring Program,Semi-Annual,125,84,Compliant,4,0,100.0,PMDA,Low,0,Quality,Process Automation
+Environmental Monitoring Program,Quarterly,355,14,Due Soon,4,2,80.5,EMA,High,10,All,Process Automation
+Environmental Monitoring Program,Quarterly,181,10,Due Soon,4,0,100.0,FDA,High,0,Data Integrity,Process Automation
+Environmental Monitoring Program,Continuous,230,3,Due Soon,2,1,81.0,Multiple,High,10,Quality,None
+Environmental Monitoring Program,Semi-Annual,126,137,Compliant,0,0,100.0,Multiple,Low,0,Process,System Upgrade
+Environmental Monitoring Program,Continuous,147,4,Due Soon,1,1,63.6,PMDA,High,14,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Annual,216,209,Compliant,2,2,61.9,EMA,Low,1,Process,Process Automation
+Environmental Monitoring Program,Semi-Annual,233,46,Scheduled,6,1,93.4,FDA,Medium,0,Quality,eBR Implementation
+Environmental Monitoring Program,Monthly,284,8,Due Soon,3,1,87.1,Multiple,High,2,Manufacturing,System Upgrade
+Environmental Monitoring Program,Annual,13,220,Compliant,4,4,61.0,EMA,Low,3,Manufacturing,System Upgrade
+Environmental Monitoring Program,Continuous,217,6,Due Soon,2,0,100.0,PMDA,High,0,Quality,Process Automation
+Environmental Monitoring Program,Continuous,365,3,Due Soon,7,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+Environmental Monitoring Program,Quarterly,312,75,Compliant,0,0,100.0,FDA,Low,0,Manufacturing,eBR Implementation
+Environmental Monitoring Program,Quarterly,210,57,Scheduled,0,0,100.0,Multiple,Medium,0,All,Data Governance
+Environmental Monitoring Program,Monthly,69,22,Due Soon,0,0,100.0,EMA,High,0,Process,None
+Environmental Monitoring Program,Annual,4,77,Compliant,0,3,-1100.0,PMDA,Low,26,All,Process Automation
+Environmental Monitoring Program,Quarterly,91,56,Scheduled,1,1,63.6,PMDA,Medium,11,Manufacturing,System Upgrade
+Environmental Monitoring Program,Quarterly,175,63,Compliant,1,0,100.0,FDA,Low,0,Process,None
+Environmental Monitoring Program,Continuous,147,6,Due Soon,3,0,100.0,PMDA,High,0,All,Data Governance
+Environmental Monitoring Program,Semi-Annual,22,36,Scheduled,2,1,81.0,EMA,Medium,7,All,None
+Environmental Monitoring Program,Quarterly,316,73,Compliant,5,1,92.2,PMDA,Low,32,Manufacturing,Data Governance
+Environmental Monitoring Program,Quarterly,61,21,Due Soon,4,0,100.0,PMDA,High,0,Data Integrity,Process Automation
+Environmental Monitoring Program,Monthly,87,7,Due Soon,4,1,90.2,PMDA,High,10,Data Integrity,None
+Environmental Monitoring Program,Annual,342,118,Compliant,1,0,100.0,PMDA,Low,0,Quality,eBR Implementation
+Environmental Monitoring Program,Semi-Annual,261,141,Compliant,9,2,91.2,EMA,Low,6,Manufacturing,None
+Environmental Monitoring Program,Annual,276,276,Compliant,0,2,-700.0,EMA,Low,5,Manufacturing,Process Automation
+Environmental Monitoring Program,Annual,105,189,Compliant,1,1,63.6,PMDA,Low,14,Process,Process Automation
+Environmental Monitoring Program,Monthly,65,16,Due Soon,0,2,-700.0,Multiple,High,13,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Annual,222,227,Compliant,2,0,100.0,Multiple,Low,0,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Semi-Annual,343,71,Compliant,0,0,100.0,FDA,Low,0,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Semi-Annual,168,19,Due Soon,0,0,100.0,EMA,High,0,Process,Data Governance
+Environmental Monitoring Program,Quarterly,323,58,Scheduled,1,0,100.0,FDA,Medium,0,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Monthly,362,3,Due Soon,1,0,100.0,PMDA,High,0,Quality,None
+Environmental Monitoring Program,Annual,322,324,Compliant,1,1,63.6,FDA,Low,6,Quality,System Upgrade
+Environmental Monitoring Program,Continuous,113,6,Due Soon,0,0,100.0,EMA,High,0,Data Integrity,Process Automation
+Environmental Monitoring Program,Semi-Annual,96,124,Compliant,3,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Environmental Monitoring Program,Semi-Annual,46,162,Compliant,7,1,94.4,EMA,Low,3,Manufacturing,Process Automation
+Environmental Monitoring Program,Annual,286,251,Compliant,2,1,81.0,EMA,Low,2,Quality,eBR Implementation
+Environmental Monitoring Program,Monthly,135,22,Due Soon,0,1,-300.0,Multiple,High,25,Process,System Upgrade
+Environmental Monitoring Program,Quarterly,272,61,Compliant,1,0,100.0,EMA,Low,0,Data Integrity,System Upgrade
+Environmental Monitoring Program,Quarterly,249,85,Compliant,0,1,-300.0,Multiple,Low,13,All,None
+Environmental Monitoring Program,Quarterly,247,69,Compliant,1,2,27.3,PMDA,Low,3,Manufacturing,System Upgrade
+Environmental Monitoring Program,Annual,215,147,Compliant,3,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Environmental Monitoring Program,Monthly,91,3,Due Soon,4,2,80.5,Multiple,High,15,Data Integrity,eBR Implementation
+Environmental Monitoring Program,Quarterly,204,89,Compliant,0,1,-300.0,EMA,Low,7,All,Process Automation
+Environmental Monitoring Program,Continuous,352,6,Due Soon,12,0,100.0,EMA,High,0,Manufacturing,Data Governance
+Environmental Monitoring Program,Quarterly,111,64,Compliant,4,0,100.0,Multiple,Low,0,Manufacturing,None
+Environmental Monitoring Program,Quarterly,346,33,Scheduled,1,0,100.0,PMDA,Medium,0,All,Process Automation
+Environmental Monitoring Program,Monthly,205,13,Due Soon,0,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+Environmental Monitoring Program,Monthly,113,23,Due Soon,0,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+Environmental Monitoring Program,Monthly,114,13,Due Soon,4,0,100.0,EMA,High,0,Process,System Upgrade
+Environmental Monitoring Program,Annual,313,314,Compliant,4,1,90.2,PMDA,Low,17,Quality,None
+Environmental Monitoring Program,Continuous,11,0,Due Soon,2,0,100.0,Multiple,High,0,Manufacturing,Data Governance
+Environmental Monitoring Program,Quarterly,33,70,Compliant,2,1,81.0,FDA,Low,9,Process,System Upgrade
+Environmental Monitoring Program,Quarterly,102,68,Compliant,4,1,90.2,EMA,Low,5,Process,Process Automation
+Environmental Monitoring Program,Semi-Annual,83,74,Compliant,5,1,92.2,PMDA,Low,1,Data Integrity,Process Automation
+Environmental Monitoring Program,Semi-Annual,128,141,Compliant,2,1,81.0,FDA,Low,8,Manufacturing,eBR Implementation
+Environmental Monitoring Program,Continuous,257,1,Due Soon,8,0,100.0,Multiple,High,0,All,eBR Implementation
+Environmental Monitoring Program,Semi-Annual,155,72,Compliant,3,2,74.2,FDA,Low,12,Quality,System Upgrade
+Environmental Monitoring Program,Annual,64,139,Compliant,1,0,100.0,Multiple,Low,0,All,System Upgrade
+Environmental Monitoring Program,Quarterly,40,10,Due Soon,2,0,100.0,FDA,High,0,Process,Process Automation
+Environmental Monitoring Program,Annual,278,7,Due Soon,6,0,100.0,EMA,High,0,Manufacturing,None
+Environmental Monitoring Program,Monthly,311,6,Due Soon,3,0,100.0,PMDA,High,0,Data Integrity,Process Automation
+Environmental Monitoring Program,Continuous,155,0,Due Soon,2,1,81.0,PMDA,High,1,All,System Upgrade
+Environmental Monitoring Program,Annual,336,135,Compliant,3,0,100.0,Multiple,Low,0,All,Data Governance
+Environmental Monitoring Program,Monthly,114,2,Due Soon,2,1,81.0,Multiple,High,3,Process,Data Governance
+Environmental Monitoring Program,Monthly,360,9,Due Soon,0,1,-300.0,EMA,High,4,All,eBR Implementation
+Environmental Monitoring Program,Monthly,202,23,Due Soon,0,2,-700.0,PMDA,High,2,Process,eBR Implementation
+Environmental Monitoring Program,Monthly,296,7,Due Soon,4,1,90.2,FDA,High,2,All,System Upgrade
+Environmental Monitoring Program,Monthly,245,11,Due Soon,0,1,-300.0,FDA,High,0,Data Integrity,Data Governance
+Environmental Monitoring Program,Semi-Annual,43,161,Compliant,0,1,-300.0,FDA,Low,7,Process,System Upgrade
+Computer System Validation (CSV),Semi-Annual,304,125,Compliant,1,1,63.6,EMA,Low,8,Manufacturing,System Upgrade
+Computer System Validation (CSV),Monthly,243,19,Due Soon,2,1,81.0,EMA,High,28,Manufacturing,Process Automation
+Computer System Validation (CSV),Quarterly,160,52,Scheduled,1,0,100.0,PMDA,Medium,0,Quality,eBR Implementation
+Computer System Validation (CSV),Quarterly,290,88,Compliant,0,0,100.0,Multiple,Low,0,Manufacturing,Data Governance
+Computer System Validation (CSV),Semi-Annual,251,143,Compliant,0,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Computer System Validation (CSV),Quarterly,363,59,Scheduled,2,0,100.0,Multiple,Medium,0,Process,None
+Computer System Validation (CSV),Annual,218,53,Scheduled,3,0,100.0,FDA,Medium,0,All,System Upgrade
+Computer System Validation (CSV),Annual,267,82,Compliant,9,1,95.6,FDA,Low,14,Quality,System Upgrade
+Computer System Validation (CSV),Monthly,59,27,Due Soon,5,3,76.5,FDA,High,7,All,Process Automation
+Computer System Validation (CSV),Semi-Annual,269,160,Compliant,1,1,63.6,Multiple,Low,5,Quality,None
+Computer System Validation (CSV),Monthly,5,12,Due Soon,0,0,100.0,PMDA,High,0,Manufacturing,Process Automation
+Computer System Validation (CSV),Quarterly,139,86,Compliant,0,0,100.0,PMDA,Low,0,Process,Data Governance
+Computer System Validation (CSV),Continuous,73,2,Due Soon,0,0,100.0,PMDA,High,0,Process,System Upgrade
+Computer System Validation (CSV),Continuous,266,5,Due Soon,0,0,100.0,PMDA,High,0,All,Process Automation
+Computer System Validation (CSV),Semi-Annual,70,84,Compliant,4,0,100.0,EMA,Low,0,Process,Process Automation
+Computer System Validation (CSV),Annual,214,162,Compliant,9,0,100.0,EMA,Low,0,Quality,Process Automation
+Computer System Validation (CSV),Annual,160,2,Due Soon,5,0,100.0,EMA,High,0,Quality,eBR Implementation
+Computer System Validation (CSV),Continuous,170,7,Due Soon,8,0,100.0,FDA,High,0,Manufacturing,None
+Computer System Validation (CSV),Monthly,81,19,Due Soon,4,0,100.0,FDA,High,0,Data Integrity,None
+Computer System Validation (CSV),Semi-Annual,322,88,Compliant,2,0,100.0,FDA,Low,0,Quality,Data Governance
+Computer System Validation (CSV),Quarterly,300,54,Scheduled,3,1,87.1,PMDA,Medium,25,Data Integrity,None
+Computer System Validation (CSV),Monthly,131,29,Due Soon,2,0,100.0,EMA,High,0,Manufacturing,None
+Computer System Validation (CSV),Semi-Annual,111,26,Due Soon,0,1,-300.0,PMDA,High,1,Quality,Data Governance
+Computer System Validation (CSV),Continuous,65,1,Due Soon,5,0,100.0,Multiple,High,0,Data Integrity,None
+Computer System Validation (CSV),Continuous,316,4,Due Soon,2,1,81.0,Multiple,High,4,Quality,System Upgrade
+Computer System Validation (CSV),Annual,111,118,Compliant,3,0,100.0,FDA,Low,0,Process,System Upgrade
+Computer System Validation (CSV),Semi-Annual,244,42,Scheduled,0,4,-1500.0,FDA,Medium,3,Data Integrity,eBR Implementation
+Computer System Validation (CSV),Annual,262,70,Compliant,3,1,87.1,Multiple,Low,11,All,Process Automation
+Computer System Validation (CSV),Quarterly,257,38,Scheduled,0,1,-300.0,FDA,Medium,4,Quality,None
+Computer System Validation (CSV),Monthly,198,12,Due Soon,1,5,-81.8,Multiple,High,1,Data Integrity,Data Governance
+Computer System Validation (CSV),Continuous,272,5,Due Soon,4,0,100.0,FDA,High,0,Process,System Upgrade
+Computer System Validation (CSV),Semi-Annual,143,162,Compliant,1,0,100.0,EMA,Low,0,All,None
+Computer System Validation (CSV),Monthly,356,15,Due Soon,1,0,100.0,PMDA,High,0,Manufacturing,None
+Computer System Validation (CSV),Monthly,179,20,Due Soon,0,1,-300.0,EMA,High,0,Manufacturing,Data Governance
+Computer System Validation (CSV),Monthly,344,24,Due Soon,1,0,100.0,PMDA,High,0,All,System Upgrade
+Computer System Validation (CSV),Continuous,196,3,Due Soon,4,0,100.0,PMDA,High,0,Quality,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,185,113,Compliant,8,0,100.0,EMA,Low,0,Manufacturing,None
+Computer System Validation (CSV),Quarterly,49,42,Scheduled,1,0,100.0,PMDA,Medium,0,Data Integrity,None
+Computer System Validation (CSV),Annual,140,310,Compliant,1,2,27.3,FDA,Low,6,Data Integrity,Process Automation
+Computer System Validation (CSV),Monthly,357,1,Due Soon,0,0,100.0,PMDA,High,0,Data Integrity,eBR Implementation
+Computer System Validation (CSV),Continuous,242,0,Due Soon,0,4,-1500.0,Multiple,High,18,All,System Upgrade
+Computer System Validation (CSV),Monthly,332,23,Due Soon,1,0,100.0,FDA,High,0,Manufacturing,Data Governance
+Computer System Validation (CSV),Annual,79,313,Compliant,6,1,93.4,EMA,Low,21,Quality,eBR Implementation
+Computer System Validation (CSV),Monthly,62,26,Due Soon,2,0,100.0,FDA,High,0,All,eBR Implementation
+Computer System Validation (CSV),Quarterly,279,12,Due Soon,3,1,87.1,PMDA,High,11,Quality,None
+Computer System Validation (CSV),Annual,345,170,Compliant,0,1,-300.0,PMDA,Low,4,Quality,None
+Computer System Validation (CSV),Quarterly,8,66,Compliant,1,1,63.6,Multiple,Low,8,All,eBR Implementation
+Computer System Validation (CSV),Annual,257,98,Compliant,3,5,35.5,EMA,Low,12,Data Integrity,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,23,113,Compliant,3,1,87.1,PMDA,Low,5,Process,System Upgrade
+Computer System Validation (CSV),Continuous,89,6,Due Soon,5,0,100.0,FDA,High,0,Data Integrity,Data Governance
+Computer System Validation (CSV),Continuous,61,5,Due Soon,3,0,100.0,PMDA,High,0,All,None
+Computer System Validation (CSV),Annual,238,289,Compliant,0,0,100.0,FDA,Low,0,Manufacturing,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,96,22,Due Soon,3,0,100.0,PMDA,High,0,Process,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,112,2,Due Soon,0,1,-300.0,PMDA,High,0,All,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,349,78,Compliant,0,0,100.0,EMA,Low,0,Quality,Data Governance
+Computer System Validation (CSV),Annual,362,194,Compliant,3,1,87.1,PMDA,Low,19,Quality,Data Governance
+Computer System Validation (CSV),Semi-Annual,162,144,Compliant,1,0,100.0,Multiple,Low,0,Quality,System Upgrade
+Computer System Validation (CSV),Quarterly,91,25,Due Soon,0,4,-1500.0,PMDA,High,6,Data Integrity,Process Automation
+Computer System Validation (CSV),Quarterly,251,11,Due Soon,2,3,42.9,PMDA,High,3,Process,Data Governance
+Computer System Validation (CSV),Quarterly,268,82,Compliant,1,1,63.6,Multiple,Low,15,Quality,eBR Implementation
+Computer System Validation (CSV),Continuous,80,6,Due Soon,3,2,74.2,EMA,High,8,All,Data Governance
+Computer System Validation (CSV),Quarterly,176,26,Due Soon,5,1,92.2,PMDA,High,2,Manufacturing,None
+Computer System Validation (CSV),Semi-Annual,112,66,Compliant,2,1,81.0,Multiple,Low,10,Data Integrity,eBR Implementation
+Computer System Validation (CSV),Annual,338,264,Compliant,0,0,100.0,EMA,Low,0,All,System Upgrade
+Computer System Validation (CSV),Monthly,166,18,Due Soon,0,6,-2300.0,PMDA,High,2,Process,Process Automation
+Computer System Validation (CSV),Continuous,166,0,Due Soon,1,1,63.6,FDA,High,21,Data Integrity,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,244,107,Compliant,4,3,70.7,PMDA,Low,9,Data Integrity,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,157,91,Compliant,6,0,100.0,EMA,Low,0,All,None
+Computer System Validation (CSV),Semi-Annual,225,5,Due Soon,1,2,27.3,Multiple,High,3,Process,None
+Computer System Validation (CSV),Monthly,205,23,Due Soon,6,0,100.0,Multiple,High,0,Quality,Data Governance
+Computer System Validation (CSV),Quarterly,173,76,Compliant,1,0,100.0,Multiple,Low,0,All,Data Governance
+Computer System Validation (CSV),Annual,260,119,Compliant,2,0,100.0,FDA,Low,0,All,Process Automation
+Computer System Validation (CSV),Quarterly,206,73,Compliant,0,3,-1100.0,FDA,Low,26,Quality,None
+Computer System Validation (CSV),Semi-Annual,306,76,Compliant,0,1,-300.0,EMA,Low,7,Process,System Upgrade
+Computer System Validation (CSV),Semi-Annual,171,169,Compliant,1,1,63.6,FDA,Low,6,Manufacturing,Data Governance
+Computer System Validation (CSV),Semi-Annual,235,88,Compliant,2,2,61.9,Multiple,Low,7,Quality,Process Automation
+Computer System Validation (CSV),Annual,76,337,Compliant,1,1,63.6,EMA,Low,10,Quality,Data Governance
+Computer System Validation (CSV),Quarterly,95,10,Due Soon,3,1,87.1,EMA,High,10,Quality,Process Automation
+Computer System Validation (CSV),Annual,79,125,Compliant,1,0,100.0,PMDA,Low,0,Manufacturing,Process Automation
+Computer System Validation (CSV),Semi-Annual,52,88,Compliant,3,2,74.2,Multiple,Low,5,Process,Process Automation
+Computer System Validation (CSV),Semi-Annual,343,120,Compliant,1,1,63.6,Multiple,Low,2,All,System Upgrade
+Computer System Validation (CSV),Annual,66,198,Compliant,0,0,100.0,PMDA,Low,0,Quality,Process Automation
+Computer System Validation (CSV),Quarterly,346,36,Scheduled,0,0,100.0,Multiple,Medium,0,Process,Process Automation
+Computer System Validation (CSV),Continuous,178,1,Due Soon,1,2,27.3,Multiple,High,4,Process,eBR Implementation
+Computer System Validation (CSV),Semi-Annual,92,155,Compliant,3,1,87.1,EMA,Low,6,Data Integrity,Data Governance
+Computer System Validation (CSV),Quarterly,1,64,Compliant,0,1,-300.0,Multiple,Low,0,Manufacturing,System Upgrade
+Computer System Validation (CSV),Semi-Annual,97,127,Compliant,0,0,100.0,FDA,Low,0,Quality,Data Governance
+Computer System Validation (CSV),Monthly,174,2,Due Soon,0,2,-700.0,Multiple,High,11,Quality,Process Automation
+Computer System Validation (CSV),Semi-Annual,160,72,Compliant,1,5,-81.8,Multiple,Low,2,All,eBR Implementation
+Computer System Validation (CSV),Quarterly,92,53,Scheduled,2,2,61.9,EMA,Medium,16,All,None
+Computer System Validation (CSV),Annual,43,238,Compliant,0,1,-300.0,PMDA,Low,2,Manufacturing,Process Automation
+Computer System Validation (CSV),Annual,164,82,Compliant,1,1,63.6,EMA,Low,15,Process,None
+Computer System Validation (CSV),Monthly,233,21,Due Soon,0,0,100.0,FDA,High,0,All,Process Automation
+Computer System Validation (CSV),Monthly,28,24,Due Soon,0,0,100.0,PMDA,High,0,All,Data Governance
+Computer System Validation (CSV),Annual,231,309,Compliant,0,3,-1100.0,PMDA,Low,3,All,Data Governance
+Computer System Validation (CSV),Continuous,58,5,Due Soon,0,1,-300.0,EMA,High,15,All,None
+Computer System Validation (CSV),Monthly,346,27,Due Soon,4,1,90.2,FDA,High,0,Quality,eBR Implementation
+Computer System Validation (CSV),Quarterly,303,90,Compliant,4,1,90.2,PMDA,Low,10,Quality,None
+Computer System Validation (CSV),Continuous,223,7,Due Soon,9,2,91.2,FDA,High,17,All,Data Governance
+Computer System Validation (CSV),Annual,251,62,Compliant,0,0,100.0,Multiple,Low,0,Data Integrity,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Continuous,130,5,Due Soon,8,1,95.1,Multiple,High,1,Data Integrity,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,137,277,Compliant,3,0,100.0,EMA,Low,0,Data Integrity,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Monthly,229,0,Due Soon,4,3,70.7,PMDA,High,5,Data Integrity,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Continuous,183,1,Due Soon,1,0,100.0,FDA,High,0,Process,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,44,44,Scheduled,6,1,93.4,FDA,Medium,8,Quality,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Monthly,141,13,Due Soon,3,0,100.0,PMDA,High,0,All,None
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,292,134,Compliant,1,2,27.3,Multiple,Low,42,Manufacturing,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,20,47,Scheduled,0,0,100.0,EMA,Medium,0,Process,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,41,16,Due Soon,1,1,63.6,PMDA,High,4,Data Integrity,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,95,0,Due Soon,23,0,100.0,PMDA,High,0,Manufacturing,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Annual,293,98,Compliant,0,0,100.0,PMDA,Low,0,Data Integrity,None
+21 CFR Part 11 - Electronic Records Compliance,Continuous,356,3,Due Soon,6,0,100.0,FDA,High,0,Data Integrity,None
+21 CFR Part 11 - Electronic Records Compliance,Monthly,224,6,Due Soon,1,0,100.0,PMDA,High,0,Quality,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,310,0,Due Soon,3,0,100.0,Multiple,High,0,Quality,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,209,0,Due Soon,3,0,100.0,EMA,High,0,Manufacturing,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,137,70,Compliant,7,2,88.7,Multiple,Low,5,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,116,113,Compliant,14,0,100.0,FDA,Low,0,Data Integrity,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Annual,148,313,Compliant,4,0,100.0,Multiple,Low,0,Process,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Continuous,278,5,Due Soon,1,0,100.0,Multiple,High,0,All,None
+21 CFR Part 11 - Electronic Records Compliance,Annual,175,175,Compliant,2,0,100.0,PMDA,Low,0,Data Integrity,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,256,118,Compliant,2,0,100.0,EMA,Low,0,Process,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Monthly,207,8,Due Soon,3,1,87.1,FDA,High,13,Process,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,177,17,Due Soon,4,0,100.0,FDA,High,0,Quality,None
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,150,38,Scheduled,0,0,100.0,PMDA,Medium,0,All,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Annual,320,79,Compliant,7,1,94.4,EMA,Low,13,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,213,6,Due Soon,6,3,80.3,FDA,High,7,Data Integrity,None
+21 CFR Part 11 - Electronic Records Compliance,Monthly,193,7,Due Soon,2,2,61.9,EMA,High,16,All,None
+21 CFR Part 11 - Electronic Records Compliance,Annual,203,49,Scheduled,3,1,87.1,EMA,Medium,9,Quality,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Continuous,92,4,Due Soon,1,2,27.3,EMA,High,9,All,None
+21 CFR Part 11 - Electronic Records Compliance,Monthly,112,11,Due Soon,0,0,100.0,Multiple,High,0,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,323,46,Scheduled,5,1,92.2,FDA,Medium,5,Data Integrity,None
+21 CFR Part 11 - Electronic Records Compliance,Continuous,116,6,Due Soon,0,1,-300.0,Multiple,High,2,All,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,81,57,Scheduled,1,1,63.6,EMA,Medium,8,All,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,172,272,Compliant,7,0,100.0,Multiple,Low,0,Quality,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,335,18,Due Soon,0,0,100.0,Multiple,High,0,All,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,15,162,Compliant,0,0,100.0,EMA,Low,0,Quality,None
+21 CFR Part 11 - Electronic Records Compliance,Continuous,307,1,Due Soon,3,0,100.0,Multiple,High,0,Manufacturing,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,86,3,Due Soon,7,0,100.0,Multiple,High,0,Manufacturing,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,335,307,Compliant,3,5,35.5,Multiple,Low,1,Process,None
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,235,41,Scheduled,1,1,63.6,PMDA,Medium,10,Quality,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Monthly,365,29,Due Soon,2,0,100.0,EMA,High,0,Data Integrity,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,16,8,Due Soon,3,1,87.1,EMA,High,1,Process,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,351,7,Due Soon,9,1,95.6,Multiple,High,7,Quality,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Monthly,329,16,Due Soon,5,1,92.2,FDA,High,0,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,237,62,Compliant,2,2,61.9,FDA,Low,12,Manufacturing,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,267,27,Due Soon,10,0,100.0,Multiple,High,0,All,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,134,30,Scheduled,0,1,-300.0,FDA,Medium,9,Process,None
+21 CFR Part 11 - Electronic Records Compliance,Annual,247,224,Compliant,0,2,-700.0,FDA,Low,1,Data Integrity,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Annual,205,186,Compliant,0,4,-1500.0,Multiple,Low,4,All,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Annual,135,74,Compliant,9,0,100.0,FDA,Low,0,Quality,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Monthly,174,21,Due Soon,0,2,-700.0,EMA,High,18,Quality,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,50,67,Compliant,2,0,100.0,PMDA,Low,0,Manufacturing,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,126,24,Due Soon,3,0,100.0,PMDA,High,0,Data Integrity,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Monthly,231,10,Due Soon,5,0,100.0,PMDA,High,0,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,72,0,Due Soon,5,0,100.0,EMA,High,0,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,190,113,Compliant,2,2,61.9,PMDA,Low,0,Data Integrity,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,325,145,Compliant,5,0,100.0,PMDA,Low,0,All,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,356,19,Due Soon,1,0,100.0,EMA,High,0,Quality,None
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,132,49,Scheduled,6,0,100.0,EMA,Medium,0,Manufacturing,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Continuous,76,4,Due Soon,2,1,81.0,FDA,High,3,Data Integrity,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,245,6,Due Soon,1,1,63.6,EMA,High,2,Data Integrity,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Continuous,268,5,Due Soon,1,2,27.3,PMDA,High,18,All,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,247,134,Compliant,1,1,63.6,EMA,Low,0,All,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Annual,34,342,Compliant,2,5,4.8,PMDA,Low,3,Quality,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,77,57,Scheduled,2,2,61.9,PMDA,Medium,9,Process,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,256,91,Compliant,1,0,100.0,Multiple,Low,0,Process,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Continuous,104,3,Due Soon,1,0,100.0,PMDA,High,0,Manufacturing,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Annual,260,168,Compliant,3,0,100.0,FDA,Low,0,Data Integrity,None
+21 CFR Part 11 - Electronic Records Compliance,Continuous,29,1,Due Soon,5,0,100.0,Multiple,High,0,Process,None
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,132,62,Compliant,1,1,63.6,EMA,Low,1,Quality,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Monthly,21,5,Due Soon,2,0,100.0,PMDA,High,0,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,33,97,Compliant,0,0,100.0,EMA,Low,0,Process,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,117,106,Compliant,1,3,-9.1,EMA,Low,0,Process,None
+21 CFR Part 11 - Electronic Records Compliance,Monthly,51,14,Due Soon,5,0,100.0,FDA,High,0,Data Integrity,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,60,122,Compliant,2,1,81.0,Multiple,Low,26,Manufacturing,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,278,25,Due Soon,4,6,41.5,EMA,High,15,Process,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,5,72,Compliant,1,4,-45.5,Multiple,Low,41,Manufacturing,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,326,150,Compliant,0,3,-1100.0,Multiple,Low,10,Manufacturing,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Monthly,139,19,Due Soon,7,3,83.1,Multiple,High,22,Quality,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,264,7,Due Soon,6,0,100.0,PMDA,High,0,Data Integrity,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,175,3,Due Soon,0,0,100.0,PMDA,High,0,Process,None
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,226,80,Compliant,0,0,100.0,FDA,Low,0,Quality,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Annual,261,163,Compliant,3,0,100.0,Multiple,Low,0,All,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,222,16,Due Soon,3,2,74.2,PMDA,High,10,Manufacturing,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,352,81,Compliant,1,0,100.0,EMA,Low,0,Quality,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,158,54,Scheduled,0,1,-300.0,PMDA,Medium,12,Data Integrity,None
+21 CFR Part 11 - Electronic Records Compliance,Monthly,351,3,Due Soon,2,1,81.0,PMDA,High,4,Process,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Continuous,166,2,Due Soon,0,2,-700.0,EMA,High,2,Quality,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Semi-Annual,313,40,Scheduled,2,2,61.9,EMA,Medium,1,Data Integrity,None
+21 CFR Part 11 - Electronic Records Compliance,Monthly,305,20,Due Soon,2,1,81.0,Multiple,High,13,Data Integrity,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,156,60,Compliant,0,2,-700.0,PMDA,Low,0,Quality,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,162,45,Scheduled,2,0,100.0,Multiple,Medium,0,Data Integrity,Process Automation
+21 CFR Part 11 - Electronic Records Compliance,Continuous,214,6,Due Soon,0,0,100.0,FDA,High,0,All,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Monthly,331,11,Due Soon,0,0,100.0,EMA,High,0,All,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Annual,104,360,Compliant,0,3,-1100.0,EMA,Low,1,Data Integrity,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,165,3,Due Soon,6,2,86.9,Multiple,High,6,All,Data Governance
+21 CFR Part 11 - Electronic Records Compliance,Continuous,111,3,Due Soon,2,0,100.0,Multiple,High,0,Data Integrity,eBR Implementation
+21 CFR Part 11 - Electronic Records Compliance,Annual,83,124,Compliant,17,1,97.7,PMDA,Low,30,All,None
+21 CFR Part 11 - Electronic Records Compliance,Monthly,24,30,Scheduled,1,3,-9.1,Multiple,Medium,5,All,System Upgrade
+21 CFR Part 11 - Electronic Records Compliance,Quarterly,301,77,Compliant,6,0,100.0,Multiple,Low,0,Manufacturing,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,176,327,Compliant,3,1,87.1,PMDA,Low,10,Process,Data Governance
+Audit Trail Integrity & Data Integrity,Monthly,146,29,Due Soon,1,1,63.6,FDA,High,2,All,System Upgrade
+Audit Trail Integrity & Data Integrity,Annual,212,166,Compliant,2,1,81.0,EMA,Low,3,Quality,None
+Audit Trail Integrity & Data Integrity,Quarterly,103,73,Compliant,4,0,100.0,FDA,Low,0,All,System Upgrade
+Audit Trail Integrity & Data Integrity,Quarterly,280,73,Compliant,0,0,100.0,PMDA,Low,0,Process,None
+Audit Trail Integrity & Data Integrity,Quarterly,12,88,Compliant,6,1,93.4,EMA,Low,18,Manufacturing,Data Governance
+Audit Trail Integrity & Data Integrity,Quarterly,110,57,Scheduled,2,2,61.9,EMA,Medium,3,Data Integrity,Process Automation
+Audit Trail Integrity & Data Integrity,Semi-Annual,186,117,Compliant,5,0,100.0,PMDA,Low,0,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Quarterly,12,77,Compliant,2,0,100.0,EMA,Low,0,Manufacturing,Process Automation
+Audit Trail Integrity & Data Integrity,Monthly,250,12,Due Soon,7,1,94.4,FDA,High,19,Process,eBR Implementation
+Audit Trail Integrity & Data Integrity,Continuous,9,5,Due Soon,0,0,100.0,Multiple,High,0,Manufacturing,None
+Audit Trail Integrity & Data Integrity,Quarterly,252,68,Compliant,1,1,63.6,PMDA,Low,16,Process,Data Governance
+Audit Trail Integrity & Data Integrity,Annual,290,38,Scheduled,1,0,100.0,FDA,Medium,0,Process,eBR Implementation
+Audit Trail Integrity & Data Integrity,Continuous,263,2,Due Soon,1,1,63.6,FDA,High,4,Process,Process Automation
+Audit Trail Integrity & Data Integrity,Continuous,38,3,Due Soon,11,0,100.0,Multiple,High,0,Data Integrity,Process Automation
+Audit Trail Integrity & Data Integrity,Monthly,78,28,Due Soon,4,1,90.2,PMDA,High,2,Manufacturing,System Upgrade
+Audit Trail Integrity & Data Integrity,Continuous,233,5,Due Soon,4,0,100.0,Multiple,High,0,Manufacturing,Process Automation
+Audit Trail Integrity & Data Integrity,Continuous,4,4,Due Soon,3,1,87.1,Multiple,High,1,Manufacturing,eBR Implementation
+Audit Trail Integrity & Data Integrity,Semi-Annual,219,82,Compliant,5,1,92.2,EMA,Low,15,Data Integrity,System Upgrade
+Audit Trail Integrity & Data Integrity,Continuous,273,5,Due Soon,1,0,100.0,Multiple,High,0,Quality,None
+Audit Trail Integrity & Data Integrity,Quarterly,79,73,Compliant,1,3,-9.1,EMA,Low,27,Quality,System Upgrade
+Audit Trail Integrity & Data Integrity,Quarterly,52,23,Due Soon,1,0,100.0,FDA,High,0,Process,None
+Audit Trail Integrity & Data Integrity,Annual,277,65,Compliant,3,2,74.2,PMDA,Low,16,Manufacturing,Data Governance
+Audit Trail Integrity & Data Integrity,Quarterly,337,29,Due Soon,0,0,100.0,EMA,High,0,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Semi-Annual,139,108,Compliant,1,0,100.0,EMA,Low,0,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Annual,226,70,Compliant,4,1,90.2,FDA,Low,17,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Monthly,107,27,Due Soon,0,1,-300.0,Multiple,High,8,Manufacturing,Process Automation
+Audit Trail Integrity & Data Integrity,Monthly,102,12,Due Soon,1,1,63.6,EMA,High,8,All,None
+Audit Trail Integrity & Data Integrity,Annual,90,47,Scheduled,6,0,100.0,FDA,Medium,0,Quality,System Upgrade
+Audit Trail Integrity & Data Integrity,Annual,310,250,Compliant,5,5,60.8,PMDA,Low,13,Data Integrity,Process Automation
+Audit Trail Integrity & Data Integrity,Semi-Annual,47,53,Scheduled,4,0,100.0,PMDA,Medium,0,All,Data Governance
+Audit Trail Integrity & Data Integrity,Continuous,234,1,Due Soon,2,1,81.0,FDA,High,9,Manufacturing,Process Automation
+Audit Trail Integrity & Data Integrity,Monthly,52,12,Due Soon,1,4,-45.5,PMDA,High,7,Data Integrity,Data Governance
+Audit Trail Integrity & Data Integrity,Annual,334,222,Compliant,10,1,96.0,PMDA,Low,15,Quality,eBR Implementation
+Audit Trail Integrity & Data Integrity,Monthly,242,28,Due Soon,4,1,90.2,FDA,High,0,Data Integrity,Data Governance
+Audit Trail Integrity & Data Integrity,Annual,128,72,Compliant,0,1,-300.0,EMA,Low,24,Process,eBR Implementation
+Audit Trail Integrity & Data Integrity,Semi-Annual,80,132,Compliant,2,0,100.0,EMA,Low,0,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,108,305,Compliant,1,1,63.6,PMDA,Low,9,Data Integrity,None
+Audit Trail Integrity & Data Integrity,Monthly,81,26,Due Soon,9,1,95.6,Multiple,High,4,Quality,System Upgrade
+Audit Trail Integrity & Data Integrity,Continuous,343,2,Due Soon,2,2,61.9,EMA,High,7,Data Integrity,eBR Implementation
+Audit Trail Integrity & Data Integrity,Semi-Annual,255,7,Due Soon,1,0,100.0,EMA,High,0,Data Integrity,Process Automation
+Audit Trail Integrity & Data Integrity,Quarterly,319,33,Scheduled,4,0,100.0,PMDA,Medium,0,Manufacturing,eBR Implementation
+Audit Trail Integrity & Data Integrity,Quarterly,241,3,Due Soon,0,0,100.0,FDA,High,0,Quality,Process Automation
+Audit Trail Integrity & Data Integrity,Annual,194,276,Compliant,8,0,100.0,EMA,Low,0,Quality,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,115,178,Compliant,4,1,90.2,FDA,Low,10,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,238,243,Compliant,4,0,100.0,Multiple,Low,0,Process,Process Automation
+Audit Trail Integrity & Data Integrity,Semi-Annual,327,154,Compliant,1,0,100.0,FDA,Low,0,Data Integrity,Process Automation
+Audit Trail Integrity & Data Integrity,Monthly,132,28,Due Soon,2,3,42.9,EMA,High,25,Data Integrity,None
+Audit Trail Integrity & Data Integrity,Quarterly,343,78,Compliant,3,3,61.3,FDA,Low,33,All,Process Automation
+Audit Trail Integrity & Data Integrity,Continuous,65,3,Due Soon,4,0,100.0,EMA,High,0,Process,System Upgrade
+Audit Trail Integrity & Data Integrity,Semi-Annual,338,57,Scheduled,1,4,-45.5,FDA,Medium,11,Manufacturing,Process Automation
+Audit Trail Integrity & Data Integrity,Quarterly,54,78,Compliant,5,0,100.0,EMA,Low,0,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Semi-Annual,155,168,Compliant,0,0,100.0,PMDA,Low,0,All,None
+Audit Trail Integrity & Data Integrity,Continuous,68,4,Due Soon,0,3,-1100.0,PMDA,High,2,All,Data Governance
+Audit Trail Integrity & Data Integrity,Semi-Annual,18,148,Compliant,2,0,100.0,Multiple,Low,0,Manufacturing,System Upgrade
+Audit Trail Integrity & Data Integrity,Semi-Annual,74,3,Due Soon,0,0,100.0,FDA,High,0,Quality,System Upgrade
+Audit Trail Integrity & Data Integrity,Monthly,6,10,Due Soon,12,2,93.4,Multiple,High,11,All,Data Governance
+Audit Trail Integrity & Data Integrity,Semi-Annual,296,160,Compliant,7,4,77.5,Multiple,Low,6,All,System Upgrade
+Audit Trail Integrity & Data Integrity,Monthly,135,19,Due Soon,1,0,100.0,Multiple,High,0,Manufacturing,Data Governance
+Audit Trail Integrity & Data Integrity,Continuous,173,5,Due Soon,0,0,100.0,EMA,High,0,Data Integrity,Data Governance
+Audit Trail Integrity & Data Integrity,Monthly,282,24,Due Soon,1,0,100.0,Multiple,High,0,Manufacturing,Data Governance
+Audit Trail Integrity & Data Integrity,Continuous,33,4,Due Soon,6,2,86.9,PMDA,High,2,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Continuous,49,2,Due Soon,4,2,80.5,EMA,High,4,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,365,281,Compliant,3,0,100.0,PMDA,Low,0,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Quarterly,224,57,Scheduled,0,1,-300.0,FDA,Medium,5,Process,System Upgrade
+Audit Trail Integrity & Data Integrity,Monthly,262,26,Due Soon,0,1,-300.0,EMA,High,29,Quality,System Upgrade
+Audit Trail Integrity & Data Integrity,Annual,182,101,Compliant,3,2,74.2,EMA,Low,14,Process,None
+Audit Trail Integrity & Data Integrity,Continuous,273,0,Due Soon,4,0,100.0,PMDA,High,0,Process,System Upgrade
+Audit Trail Integrity & Data Integrity,Continuous,192,2,Due Soon,7,2,88.7,EMA,High,3,Manufacturing,System Upgrade
+Audit Trail Integrity & Data Integrity,Continuous,78,3,Due Soon,2,1,81.0,Multiple,High,1,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Annual,152,205,Compliant,0,0,100.0,Multiple,Low,0,Process,Process Automation
+Audit Trail Integrity & Data Integrity,Monthly,165,14,Due Soon,5,0,100.0,EMA,High,0,Data Integrity,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,363,128,Compliant,1,0,100.0,PMDA,Low,0,Quality,None
+Audit Trail Integrity & Data Integrity,Continuous,31,1,Due Soon,4,3,70.7,Multiple,High,8,Quality,System Upgrade
+Audit Trail Integrity & Data Integrity,Monthly,83,26,Due Soon,0,1,-300.0,EMA,High,14,All,System Upgrade
+Audit Trail Integrity & Data Integrity,Monthly,303,12,Due Soon,3,2,74.2,EMA,High,3,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Annual,142,115,Compliant,0,0,100.0,EMA,Low,0,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Continuous,106,2,Due Soon,9,1,95.6,Multiple,High,13,Quality,Data Governance
+Audit Trail Integrity & Data Integrity,Quarterly,327,1,Due Soon,6,2,86.9,FDA,High,2,Process,Data Governance
+Audit Trail Integrity & Data Integrity,Continuous,322,1,Due Soon,0,3,-1100.0,Multiple,High,39,Quality,Process Automation
+Audit Trail Integrity & Data Integrity,Quarterly,278,15,Due Soon,2,3,42.9,Multiple,High,2,Quality,eBR Implementation
+Audit Trail Integrity & Data Integrity,Quarterly,21,34,Scheduled,0,1,-300.0,Multiple,Medium,16,Data Integrity,eBR Implementation
+Audit Trail Integrity & Data Integrity,Monthly,300,13,Due Soon,3,1,87.1,EMA,High,0,All,Data Governance
+Audit Trail Integrity & Data Integrity,Semi-Annual,53,133,Compliant,1,4,-45.5,FDA,Low,1,Process,None
+Audit Trail Integrity & Data Integrity,Quarterly,341,30,Scheduled,3,2,74.2,Multiple,Medium,13,All,Process Automation
+Audit Trail Integrity & Data Integrity,Annual,54,326,Compliant,13,0,100.0,PMDA,Low,0,Data Integrity,Data Governance
+Audit Trail Integrity & Data Integrity,Continuous,215,5,Due Soon,3,0,100.0,PMDA,High,0,Data Integrity,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,249,51,Scheduled,1,1,63.6,EMA,Medium,2,Process,Process Automation
+Audit Trail Integrity & Data Integrity,Semi-Annual,223,151,Compliant,7,1,94.4,PMDA,Low,3,Manufacturing,Process Automation
+Audit Trail Integrity & Data Integrity,Continuous,311,6,Due Soon,0,0,100.0,Multiple,High,0,Manufacturing,None
+Audit Trail Integrity & Data Integrity,Annual,330,302,Compliant,2,2,61.9,FDA,Low,6,Process,eBR Implementation
+Audit Trail Integrity & Data Integrity,Annual,185,122,Compliant,0,0,100.0,Multiple,Low,0,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Quarterly,226,82,Compliant,1,1,63.6,Multiple,Low,2,Process,None
+Audit Trail Integrity & Data Integrity,Annual,322,204,Compliant,0,0,100.0,Multiple,Low,0,Manufacturing,System Upgrade
+Audit Trail Integrity & Data Integrity,Continuous,13,2,Due Soon,2,1,81.0,PMDA,High,18,Manufacturing,Data Governance
+Audit Trail Integrity & Data Integrity,Monthly,15,25,Due Soon,3,1,87.1,Multiple,High,1,Data Integrity,Data Governance
+Audit Trail Integrity & Data Integrity,Quarterly,128,45,Scheduled,0,1,-300.0,PMDA,Medium,0,All,eBR Implementation
+Audit Trail Integrity & Data Integrity,Quarterly,358,58,Scheduled,1,0,100.0,PMDA,Medium,0,Quality,System Upgrade
+Audit Trail Integrity & Data Integrity,Continuous,206,5,Due Soon,0,0,100.0,PMDA,High,0,Quality,Process Automation
+Audit Trail Integrity & Data Integrity,Annual,181,170,Compliant,4,0,100.0,EMA,Low,0,Data Integrity,Data Governance
+Master Data Governance & Accuracy,Annual,328,46,Scheduled,0,0,100.0,Multiple,Medium,0,Data Integrity,None
+Master Data Governance & Accuracy,Monthly,96,20,Due Soon,3,2,74.2,Multiple,High,1,Quality,Data Governance
+Master Data Governance & Accuracy,Monthly,173,11,Due Soon,4,0,100.0,Multiple,High,0,Data Integrity,System Upgrade
+Master Data Governance & Accuracy,Semi-Annual,9,82,Compliant,3,1,87.1,FDA,Low,15,Quality,None
+Master Data Governance & Accuracy,Quarterly,359,64,Compliant,3,0,100.0,PMDA,Low,0,Process,None
+Master Data Governance & Accuracy,Semi-Annual,317,101,Compliant,2,0,100.0,FDA,Low,0,Quality,eBR Implementation
+Master Data Governance & Accuracy,Annual,307,364,Compliant,10,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Master Data Governance & Accuracy,Quarterly,182,68,Compliant,1,0,100.0,Multiple,Low,0,Quality,Process Automation
+Master Data Governance & Accuracy,Annual,315,150,Compliant,0,1,-300.0,FDA,Low,6,Data Integrity,System Upgrade
+Master Data Governance & Accuracy,Monthly,21,26,Due Soon,1,0,100.0,EMA,High,0,Process,System Upgrade
+Master Data Governance & Accuracy,Quarterly,254,3,Due Soon,3,0,100.0,EMA,High,0,Quality,System Upgrade
+Master Data Governance & Accuracy,Semi-Annual,332,112,Compliant,1,1,63.6,EMA,Low,5,Quality,eBR Implementation
+Master Data Governance & Accuracy,Quarterly,11,31,Scheduled,0,2,-700.0,Multiple,Medium,3,All,Process Automation
+Master Data Governance & Accuracy,Continuous,212,3,Due Soon,0,1,-300.0,EMA,High,0,Process,None
+Master Data Governance & Accuracy,Monthly,295,20,Due Soon,1,2,27.3,Multiple,High,24,Data Integrity,Data Governance
+Master Data Governance & Accuracy,Quarterly,190,55,Scheduled,2,0,100.0,PMDA,Medium,0,Quality,Data Governance
+Master Data Governance & Accuracy,Continuous,40,5,Due Soon,0,1,-300.0,EMA,High,5,Data Integrity,System Upgrade
+Master Data Governance & Accuracy,Continuous,50,2,Due Soon,0,2,-700.0,Multiple,High,2,Process,Data Governance
+Master Data Governance & Accuracy,Annual,117,309,Compliant,1,0,100.0,PMDA,Low,0,Process,System Upgrade
+Master Data Governance & Accuracy,Monthly,295,8,Due Soon,3,0,100.0,FDA,High,0,All,None
+Master Data Governance & Accuracy,Monthly,303,15,Due Soon,0,0,100.0,Multiple,High,0,Manufacturing,System Upgrade
+Master Data Governance & Accuracy,Annual,230,286,Compliant,6,1,93.4,FDA,Low,1,Data Integrity,Process Automation
+Master Data Governance & Accuracy,Semi-Annual,350,16,Due Soon,4,0,100.0,PMDA,High,0,Manufacturing,Data Governance
+Master Data Governance & Accuracy,Continuous,15,4,Due Soon,1,1,63.6,Multiple,High,8,All,System Upgrade
+Master Data Governance & Accuracy,Monthly,339,6,Due Soon,0,2,-700.0,Multiple,High,6,Data Integrity,None
+Master Data Governance & Accuracy,Quarterly,120,42,Scheduled,13,1,96.9,Multiple,Medium,49,Quality,None
+Master Data Governance & Accuracy,Continuous,4,5,Due Soon,1,0,100.0,FDA,High,0,Data Integrity,None
+Master Data Governance & Accuracy,Annual,315,36,Scheduled,3,2,74.2,FDA,Medium,19,Process,Process Automation
+Master Data Governance & Accuracy,Semi-Annual,128,49,Scheduled,1,1,63.6,EMA,Medium,19,Quality,eBR Implementation
+Master Data Governance & Accuracy,Monthly,62,23,Due Soon,6,0,100.0,PMDA,High,0,Manufacturing,eBR Implementation
+Master Data Governance & Accuracy,Monthly,359,18,Due Soon,3,1,87.1,Multiple,High,0,All,Process Automation
+Master Data Governance & Accuracy,Monthly,176,4,Due Soon,7,0,100.0,EMA,High,0,Manufacturing,Data Governance
+Master Data Governance & Accuracy,Quarterly,363,22,Due Soon,3,3,61.3,Multiple,High,1,Data Integrity,Process Automation
+Master Data Governance & Accuracy,Annual,134,94,Compliant,5,1,92.2,Multiple,Low,18,Quality,System Upgrade
+Master Data Governance & Accuracy,Quarterly,325,82,Compliant,2,0,100.0,FDA,Low,0,Data Integrity,Process Automation
+Master Data Governance & Accuracy,Annual,132,268,Compliant,3,0,100.0,FDA,Low,0,Process,eBR Implementation
+Master Data Governance & Accuracy,Continuous,350,0,Due Soon,1,0,100.0,PMDA,High,0,Manufacturing,System Upgrade
+Master Data Governance & Accuracy,Annual,7,270,Compliant,2,1,81.0,FDA,Low,12,Data Integrity,Process Automation
+Master Data Governance & Accuracy,Quarterly,291,3,Due Soon,4,1,90.2,PMDA,High,16,Manufacturing,System Upgrade
+Master Data Governance & Accuracy,Semi-Annual,318,162,Compliant,0,2,-700.0,Multiple,Low,4,Quality,None
+Master Data Governance & Accuracy,Semi-Annual,50,88,Compliant,2,0,100.0,EMA,Low,0,Process,Data Governance
+Master Data Governance & Accuracy,Continuous,226,2,Due Soon,1,0,100.0,EMA,High,0,Process,System Upgrade
+Master Data Governance & Accuracy,Monthly,319,0,Due Soon,0,0,100.0,FDA,High,0,Process,eBR Implementation
+Master Data Governance & Accuracy,Quarterly,56,37,Scheduled,1,0,100.0,PMDA,Medium,0,Quality,None
+Master Data Governance & Accuracy,Continuous,52,2,Due Soon,0,0,100.0,Multiple,High,0,Quality,None
+Master Data Governance & Accuracy,Semi-Annual,173,156,Compliant,0,3,-1100.0,Multiple,Low,11,Process,Process Automation
+Master Data Governance & Accuracy,Monthly,60,30,Scheduled,7,1,94.4,FDA,Medium,18,Data Integrity,System Upgrade
+Master Data Governance & Accuracy,Quarterly,123,18,Due Soon,2,0,100.0,Multiple,High,0,Quality,Process Automation
+Master Data Governance & Accuracy,Annual,31,183,Compliant,2,0,100.0,Multiple,Low,0,Process,eBR Implementation
+Master Data Governance & Accuracy,Continuous,340,1,Due Soon,3,3,61.3,PMDA,High,15,Process,None
+Master Data Governance & Accuracy,Continuous,280,6,Due Soon,1,4,-45.5,EMA,High,42,Data Integrity,Data Governance
+Master Data Governance & Accuracy,Semi-Annual,102,114,Compliant,2,2,61.9,PMDA,Low,0,All,Process Automation
+Master Data Governance & Accuracy,Monthly,43,12,Due Soon,0,0,100.0,Multiple,High,0,Manufacturing,Process Automation
+Master Data Governance & Accuracy,Annual,288,164,Compliant,4,0,100.0,Multiple,Low,0,Process,Process Automation
+Master Data Governance & Accuracy,Quarterly,148,63,Compliant,0,0,100.0,FDA,Low,0,Process,eBR Implementation
+Master Data Governance & Accuracy,Semi-Annual,158,22,Due Soon,1,0,100.0,EMA,High,0,Data Integrity,eBR Implementation
+Master Data Governance & Accuracy,Continuous,25,0,Due Soon,0,1,-300.0,PMDA,High,2,All,System Upgrade
+Master Data Governance & Accuracy,Quarterly,27,68,Compliant,0,2,-700.0,Multiple,Low,43,Process,None
+Master Data Governance & Accuracy,Semi-Annual,190,130,Compliant,1,0,100.0,FDA,Low,0,Quality,eBR Implementation
+Master Data Governance & Accuracy,Monthly,96,30,Scheduled,8,1,95.1,EMA,Medium,13,Data Integrity,eBR Implementation
+Master Data Governance & Accuracy,Semi-Annual,106,126,Compliant,1,0,100.0,FDA,Low,0,Manufacturing,Process Automation
+Master Data Governance & Accuracy,Semi-Annual,60,176,Compliant,3,1,87.1,PMDA,Low,6,Manufacturing,System Upgrade
+Master Data Governance & Accuracy,Quarterly,200,22,Due Soon,0,2,-700.0,EMA,High,3,Data Integrity,Process Automation
+Master Data Governance & Accuracy,Annual,73,79,Compliant,3,0,100.0,EMA,Low,0,Process,Data Governance
+Master Data Governance & Accuracy,Monthly,293,21,Due Soon,1,0,100.0,PMDA,High,0,Quality,Data Governance
+Master Data Governance & Accuracy,Monthly,6,22,Due Soon,3,0,100.0,Multiple,High,0,All,Process Automation
+Master Data Governance & Accuracy,Quarterly,250,24,Due Soon,1,0,100.0,PMDA,High,0,Process,eBR Implementation
+Master Data Governance & Accuracy,Monthly,357,1,Due Soon,9,6,73.6,Multiple,High,14,Quality,System Upgrade
+Master Data Governance & Accuracy,Annual,59,326,Compliant,12,0,100.0,FDA,Low,0,Quality,Process Automation
+Master Data Governance & Accuracy,Annual,275,93,Compliant,14,0,100.0,PMDA,Low,0,Quality,Data Governance
+Master Data Governance & Accuracy,Monthly,275,9,Due Soon,1,0,100.0,PMDA,High,0,Data Integrity,None
+Master Data Governance & Accuracy,Quarterly,62,13,Due Soon,9,1,95.6,Multiple,High,9,Quality,eBR Implementation
+Master Data Governance & Accuracy,Continuous,103,7,Due Soon,17,1,97.7,EMA,High,10,Process,eBR Implementation
+Master Data Governance & Accuracy,Monthly,56,15,Due Soon,0,2,-700.0,FDA,High,35,Quality,eBR Implementation
+Master Data Governance & Accuracy,Monthly,43,5,Due Soon,9,0,100.0,FDA,High,0,Quality,Process Automation
+Master Data Governance & Accuracy,Continuous,225,5,Due Soon,0,0,100.0,EMA,High,0,All,None
+Master Data Governance & Accuracy,Annual,258,339,Compliant,1,0,100.0,EMA,Low,0,Quality,Data Governance
+Master Data Governance & Accuracy,Annual,8,291,Compliant,2,2,61.9,EMA,Low,27,Data Integrity,Data Governance
+Master Data Governance & Accuracy,Semi-Annual,237,89,Compliant,0,0,100.0,EMA,Low,0,Manufacturing,Process Automation
+Master Data Governance & Accuracy,Monthly,150,4,Due Soon,0,0,100.0,FDA,High,0,Quality,System Upgrade
+Master Data Governance & Accuracy,Semi-Annual,337,85,Compliant,1,0,100.0,Multiple,Low,0,Manufacturing,Process Automation
+Master Data Governance & Accuracy,Annual,309,125,Compliant,9,0,100.0,PMDA,Low,0,Process,System Upgrade
+Master Data Governance & Accuracy,Semi-Annual,163,140,Compliant,2,2,61.9,FDA,Low,12,Manufacturing,eBR Implementation
+Master Data Governance & Accuracy,Monthly,274,16,Due Soon,2,2,61.9,FDA,High,9,Process,System Upgrade
+Master Data Governance & Accuracy,Quarterly,20,47,Scheduled,6,0,100.0,EMA,Medium,0,Manufacturing,System Upgrade
+Master Data Governance & Accuracy,Annual,2,195,Compliant,0,2,-700.0,FDA,Low,4,All,None
+Master Data Governance & Accuracy,Annual,322,114,Compliant,3,2,74.2,FDA,Low,3,Process,None
+Master Data Governance & Accuracy,Annual,333,10,Due Soon,2,3,42.9,Multiple,High,21,Process,Process Automation
+Master Data Governance & Accuracy,Quarterly,316,87,Compliant,4,2,80.5,Multiple,Low,22,All,System Upgrade
+Master Data Governance & Accuracy,Monthly,129,19,Due Soon,3,0,100.0,PMDA,High,0,All,Process Automation
+Master Data Governance & Accuracy,Semi-Annual,275,116,Compliant,0,0,100.0,PMDA,Low,0,Quality,System Upgrade
+Master Data Governance & Accuracy,Quarterly,90,81,Compliant,0,0,100.0,Multiple,Low,0,Data Integrity,System Upgrade
+Master Data Governance & Accuracy,Quarterly,222,2,Due Soon,8,1,95.1,PMDA,High,19,Quality,eBR Implementation
+Master Data Governance & Accuracy,Monthly,364,13,Due Soon,3,0,100.0,EMA,High,0,All,System Upgrade
+Master Data Governance & Accuracy,Quarterly,208,26,Due Soon,0,4,-1500.0,Multiple,High,0,All,Process Automation
+Master Data Governance & Accuracy,Monthly,199,14,Due Soon,2,0,100.0,Multiple,High,0,Data Integrity,Data Governance
+Master Data Governance & Accuracy,Quarterly,205,85,Compliant,1,0,100.0,EMA,Low,0,Process,System Upgrade
+Master Data Governance & Accuracy,Semi-Annual,365,55,Scheduled,2,3,42.9,EMA,Medium,10,Process,System Upgrade
+Master Data Governance & Accuracy,Continuous,238,5,Due Soon,3,3,61.3,Multiple,High,13,Data Integrity,Data Governance
+Master Data Governance & Accuracy,Semi-Annual,73,100,Compliant,6,0,100.0,Multiple,Low,0,Manufacturing,None
+Electronic Records Management & Archival,Monthly,320,9,Due Soon,6,1,93.4,Multiple,High,1,Manufacturing,System Upgrade
+Electronic Records Management & Archival,Semi-Annual,283,86,Compliant,0,0,100.0,EMA,Low,0,All,None
+Electronic Records Management & Archival,Monthly,227,5,Due Soon,1,2,27.3,FDA,High,13,Quality,Process Automation
+Electronic Records Management & Archival,Continuous,140,2,Due Soon,9,1,95.6,EMA,High,13,All,None
+Electronic Records Management & Archival,Semi-Annual,211,38,Scheduled,0,1,-300.0,PMDA,Medium,12,All,System Upgrade
+Electronic Records Management & Archival,Semi-Annual,162,124,Compliant,5,1,92.2,FDA,Low,10,Manufacturing,eBR Implementation
+Electronic Records Management & Archival,Annual,5,10,Due Soon,0,2,-700.0,FDA,High,18,Data Integrity,eBR Implementation
+Electronic Records Management & Archival,Quarterly,104,45,Scheduled,2,0,100.0,EMA,Medium,0,Quality,Data Governance
+Electronic Records Management & Archival,Annual,320,185,Compliant,1,0,100.0,PMDA,Low,0,Process,Process Automation
+Electronic Records Management & Archival,Monthly,361,10,Due Soon,3,0,100.0,EMA,High,0,Data Integrity,Data Governance
+Electronic Records Management & Archival,Annual,82,287,Compliant,5,0,100.0,EMA,Low,0,Quality,Process Automation
+Electronic Records Management & Archival,Annual,317,272,Compliant,0,2,-700.0,Multiple,Low,10,Quality,None
+Electronic Records Management & Archival,Continuous,359,7,Due Soon,4,0,100.0,PMDA,High,0,Quality,eBR Implementation
+Electronic Records Management & Archival,Semi-Annual,50,113,Compliant,0,0,100.0,FDA,Low,0,Quality,Process Automation
+Electronic Records Management & Archival,Monthly,245,12,Due Soon,0,2,-700.0,EMA,High,3,Manufacturing,None
+Electronic Records Management & Archival,Quarterly,300,56,Scheduled,18,2,95.6,EMA,Medium,9,All,eBR Implementation
+Electronic Records Management & Archival,Monthly,344,30,Scheduled,12,0,100.0,PMDA,Medium,0,Data Integrity,eBR Implementation
+Electronic Records Management & Archival,Quarterly,91,8,Due Soon,0,2,-700.0,EMA,High,3,Process,Data Governance
+Electronic Records Management & Archival,Monthly,77,29,Due Soon,9,6,73.6,FDA,High,26,Quality,Data Governance
+Electronic Records Management & Archival,Quarterly,182,10,Due Soon,8,1,95.1,Multiple,High,11,Manufacturing,None
+Electronic Records Management & Archival,Continuous,87,6,Due Soon,0,2,-700.0,PMDA,High,2,Data Integrity,System Upgrade
+Electronic Records Management & Archival,Continuous,267,4,Due Soon,5,4,68.6,FDA,High,2,All,Data Governance
+Electronic Records Management & Archival,Semi-Annual,333,13,Due Soon,0,0,100.0,EMA,High,0,Data Integrity,Data Governance
+Electronic Records Management & Archival,Monthly,173,13,Due Soon,4,2,80.5,FDA,High,11,Data Integrity,Process Automation
+Electronic Records Management & Archival,Annual,283,170,Compliant,5,0,100.0,FDA,Low,0,Quality,None
+Electronic Records Management & Archival,Annual,10,293,Compliant,3,1,87.1,PMDA,Low,1,All,System Upgrade
+Electronic Records Management & Archival,Monthly,199,12,Due Soon,1,2,27.3,FDA,High,35,Data Integrity,Process Automation
+Electronic Records Management & Archival,Quarterly,263,46,Scheduled,3,3,61.3,Multiple,Medium,1,All,Data Governance
+Electronic Records Management & Archival,Semi-Annual,134,88,Compliant,11,0,100.0,EMA,Low,0,All,Data Governance
+Electronic Records Management & Archival,Quarterly,231,10,Due Soon,2,0,100.0,FDA,High,0,Data Integrity,None
+Electronic Records Management & Archival,Annual,66,11,Due Soon,5,0,100.0,FDA,High,0,Quality,eBR Implementation
+Electronic Records Management & Archival,Semi-Annual,34,95,Compliant,0,0,100.0,EMA,Low,0,Process,System Upgrade
+Electronic Records Management & Archival,Annual,5,38,Scheduled,0,0,100.0,FDA,Medium,0,Data Integrity,None
+Electronic Records Management & Archival,Annual,299,79,Compliant,3,0,100.0,Multiple,Low,0,Data Integrity,eBR Implementation
+Electronic Records Management & Archival,Continuous,29,1,Due Soon,0,0,100.0,EMA,High,0,Quality,eBR Implementation
+Electronic Records Management & Archival,Semi-Annual,47,23,Due Soon,0,1,-300.0,FDA,High,11,All,System Upgrade
+Electronic Records Management & Archival,Semi-Annual,41,12,Due Soon,1,0,100.0,Multiple,High,0,Data Integrity,None
+Electronic Records Management & Archival,Semi-Annual,102,121,Compliant,3,1,87.1,Multiple,Low,4,Process,System Upgrade
+Electronic Records Management & Archival,Monthly,347,9,Due Soon,1,0,100.0,FDA,High,0,All,System Upgrade
+Electronic Records Management & Archival,Continuous,41,0,Due Soon,0,0,100.0,EMA,High,0,Quality,Data Governance
+Electronic Records Management & Archival,Semi-Annual,295,138,Compliant,0,0,100.0,EMA,Low,0,Manufacturing,eBR Implementation
+Electronic Records Management & Archival,Semi-Annual,165,47,Scheduled,2,4,23.8,EMA,Medium,9,Quality,Process Automation
+Electronic Records Management & Archival,Continuous,308,4,Due Soon,2,0,100.0,Multiple,High,0,Process,Data Governance
+Electronic Records Management & Archival,Semi-Annual,129,109,Compliant,0,0,100.0,PMDA,Low,0,Quality,None
+Electronic Records Management & Archival,Annual,350,335,Compliant,2,1,81.0,PMDA,Low,17,Data Integrity,System Upgrade
+Electronic Records Management & Archival,Annual,33,31,Scheduled,0,0,100.0,Multiple,Medium,0,Data Integrity,eBR Implementation
+Electronic Records Management & Archival,Continuous,41,6,Due Soon,2,1,81.0,Multiple,High,2,Manufacturing,eBR Implementation
+Electronic Records Management & Archival,Quarterly,186,75,Compliant,2,0,100.0,FDA,Low,0,Process,Data Governance
+Electronic Records Management & Archival,Quarterly,184,57,Scheduled,3,0,100.0,Multiple,Medium,0,Data Integrity,Process Automation
+Electronic Records Management & Archival,Quarterly,161,62,Compliant,2,2,61.9,EMA,Low,39,Quality,None
+Electronic Records Management & Archival,Semi-Annual,354,10,Due Soon,7,1,94.4,PMDA,High,6,All,Process Automation
+Electronic Records Management & Archival,Monthly,207,10,Due Soon,1,0,100.0,Multiple,High,0,All,Process Automation
+Electronic Records Management & Archival,Semi-Annual,198,36,Scheduled,0,0,100.0,Multiple,Medium,0,Manufacturing,System Upgrade
+Electronic Records Management & Archival,Quarterly,324,48,Scheduled,3,0,100.0,EMA,Medium,0,All,Data Governance
+Electronic Records Management & Archival,Annual,339,222,Compliant,0,1,-300.0,EMA,Low,10,Quality,None
+Electronic Records Management & Archival,Semi-Annual,49,55,Scheduled,3,1,87.1,FDA,Medium,1,All,Process Automation
+Electronic Records Management & Archival,Semi-Annual,173,69,Compliant,0,2,-700.0,EMA,Low,2,Manufacturing,Process Automation
+Electronic Records Management & Archival,Monthly,156,5,Due Soon,2,0,100.0,PMDA,High,0,Quality,System Upgrade
+Electronic Records Management & Archival,Monthly,256,19,Due Soon,7,1,94.4,Multiple,High,8,All,System Upgrade
+Electronic Records Management & Archival,Monthly,31,21,Due Soon,1,4,-45.5,PMDA,High,9,Manufacturing,eBR Implementation
+Electronic Records Management & Archival,Quarterly,245,90,Compliant,0,1,-300.0,PMDA,Low,4,Quality,System Upgrade
+Electronic Records Management & Archival,Continuous,111,7,Due Soon,0,0,100.0,Multiple,High,0,All,eBR Implementation
+Electronic Records Management & Archival,Quarterly,82,80,Compliant,4,1,90.2,PMDA,Low,10,Data Integrity,None
+Electronic Records Management & Archival,Monthly,63,19,Due Soon,3,1,87.1,EMA,High,4,Process,Data Governance
+Electronic Records Management & Archival,Quarterly,353,47,Scheduled,1,0,100.0,EMA,Medium,0,Data Integrity,None
+Electronic Records Management & Archival,Monthly,10,2,Due Soon,0,4,-1500.0,Multiple,High,18,Data Integrity,Process Automation
+Electronic Records Management & Archival,Semi-Annual,168,53,Scheduled,0,0,100.0,EMA,Medium,0,Data Integrity,Process Automation
+Electronic Records Management & Archival,Quarterly,175,71,Compliant,8,0,100.0,PMDA,Low,0,Quality,System Upgrade
+Electronic Records Management & Archival,Quarterly,294,80,Compliant,2,0,100.0,EMA,Low,0,Process,None
+Electronic Records Management & Archival,Semi-Annual,251,63,Compliant,2,3,42.9,Multiple,Low,21,Manufacturing,Data Governance
+Electronic Records Management & Archival,Continuous,197,1,Due Soon,2,1,81.0,EMA,High,8,Process,Data Governance
+Electronic Records Management & Archival,Annual,252,270,Compliant,0,0,100.0,Multiple,Low,0,Process,Data Governance
+Electronic Records Management & Archival,Annual,200,230,Compliant,9,0,100.0,EMA,Low,0,Data Integrity,System Upgrade
+Electronic Records Management & Archival,Quarterly,243,7,Due Soon,1,1,63.6,EMA,High,38,Quality,eBR Implementation
+Electronic Records Management & Archival,Quarterly,318,45,Scheduled,3,1,87.1,Multiple,Medium,7,Process,System Upgrade
+Electronic Records Management & Archival,Quarterly,249,40,Scheduled,3,1,87.1,PMDA,Medium,23,Process,None
+Electronic Records Management & Archival,Semi-Annual,97,165,Compliant,2,0,100.0,FDA,Low,0,Data Integrity,eBR Implementation
+Electronic Records Management & Archival,Semi-Annual,259,134,Compliant,4,2,80.5,PMDA,Low,1,Quality,Process Automation
+Electronic Records Management & Archival,Monthly,6,22,Due Soon,0,4,-1500.0,PMDA,High,5,Data Integrity,System Upgrade
+Electronic Records Management & Archival,Semi-Annual,13,75,Compliant,2,0,100.0,FDA,Low,0,All,eBR Implementation
+Electronic Records Management & Archival,Quarterly,76,59,Scheduled,1,2,27.3,Multiple,Medium,6,All,None
+Electronic Records Management & Archival,Semi-Annual,228,152,Compliant,1,0,100.0,PMDA,Low,0,Manufacturing,Data Governance
+Electronic Records Management & Archival,Monthly,102,8,Due Soon,7,3,83.1,Multiple,High,15,Data Integrity,System Upgrade
+Electronic Records Management & Archival,Continuous,166,2,Due Soon,3,1,87.1,FDA,High,22,Manufacturing,eBR Implementation
+Electronic Records Management & Archival,Quarterly,245,70,Compliant,4,2,80.5,PMDA,Low,3,Quality,Data Governance
+Electronic Records Management & Archival,Monthly,14,17,Due Soon,1,1,63.6,Multiple,High,4,Data Integrity,Process Automation
+Electronic Records Management & Archival,Semi-Annual,314,83,Compliant,2,1,81.0,FDA,Low,5,Data Integrity,Data Governance
+Electronic Records Management & Archival,Continuous,262,0,Due Soon,4,0,100.0,FDA,High,0,Quality,Process Automation
+Electronic Records Management & Archival,Annual,72,34,Scheduled,3,0,100.0,EMA,Medium,0,Manufacturing,None
+Electronic Records Management & Archival,Semi-Annual,48,60,Compliant,8,0,100.0,PMDA,Low,0,Data Integrity,Data Governance
+Electronic Records Management & Archival,Annual,176,211,Compliant,4,1,90.2,FDA,Low,0,All,Process Automation
+Electronic Records Management & Archival,Continuous,269,0,Due Soon,2,3,42.9,Multiple,High,1,All,System Upgrade
+Electronic Records Management & Archival,Continuous,107,1,Due Soon,1,0,100.0,Multiple,High,0,Quality,eBR Implementation
+Electronic Records Management & Archival,Quarterly,123,29,Due Soon,0,4,-1500.0,FDA,High,4,Process,eBR Implementation
+Electronic Records Management & Archival,Annual,358,329,Compliant,3,0,100.0,EMA,Low,0,All,eBR Implementation
+Electronic Records Management & Archival,Annual,120,112,Compliant,0,0,100.0,EMA,Low,0,Quality,None
+Electronic Records Management & Archival,Quarterly,199,41,Scheduled,1,1,63.6,Multiple,Medium,0,Manufacturing,None
+Electronic Records Management & Archival,Quarterly,13,63,Compliant,5,1,92.2,Multiple,Low,1,Process,eBR Implementation
+Electronic Records Management & Archival,Annual,302,102,Compliant,0,0,100.0,FDA,Low,0,Quality,System Upgrade
+Electronic Records Management & Archival,Continuous,4,7,Due Soon,0,1,-300.0,PMDA,High,19,Manufacturing,None
